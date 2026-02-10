@@ -3,7 +3,7 @@ import PredictionTable from './components/PredictionTable'
 import ModelStatus from './components/ModelStatus'
 import Header from './components/Header'
 
-const API_BASE = '/api'
+const API_BASE = import.meta.env.VITE_API_URL || '/api'
 
 function App() {
     const [predictions, setPredictions] = useState(null)

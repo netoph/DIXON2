@@ -334,10 +334,11 @@ async def get_log():
 # Entry Point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
     uvicorn.run(
         "server:app",
         host="0.0.0.0",
-        port=8000,
-        reload=True,
+        port=port,
+        reload=os.environ.get("RENDER") is None,  # Only reload locally
         log_level="info"
     )

@@ -201,10 +201,18 @@ async def lifespan(app: FastAPI):
     log_message("Server starting up...")
     _load_cache()
     
-    # If no predictions cached, run initial pipeline with demo data
-    if not current_predictions.get("progol"):
-        log_message("No cached predictions. Running initial pipeline...")
-        run_prediction_pipeline(use_demo=True)
+    # Run initial pipeline in background thread so server starts immediately
+    # (critical for Render: must bind to PORT before health check timeout)
+    import threading
+    
+    def _initial_pipeline():
+        if not current_predictions.get("progol"):
+            log_message("No cached predictions. Running initial pipeline...")
+            run_prediction_pipeline(use_demo=True)
+        else:
+            log_message("Loaded cached predictions. Skipping initial pipeline.")
+    
+    threading.Thread(target=_initial_pipeline, daemon=True).start()
     
     # Schedule weekly run: Monday 09:00 CST
     scheduler.add_job(

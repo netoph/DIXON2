@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import PredictionTable from './components/PredictionTable'
 import ModelStatus from './components/ModelStatus'
+import ModelInfo from './components/ModelInfo'
 import Header from './components/Header'
 
 const API_BASE = import.meta.env.VITE_API_URL || '/api'
@@ -106,6 +107,14 @@ function App() {
                         Revancha
                         <span className="ml-2 text-xs opacity-60">7 partidos</span>
                     </button>
+                    <button
+                        className={`tab-btn ${activeTab === 'modelo' ? 'active' : ''}`}
+                        onClick={() => setActiveTab('modelo')}
+                    >
+                        <span className="mr-2">🧠</span>
+                        Modelo
+                        <span className="ml-2 text-xs opacity-60">Info</span>
+                    </button>
                 </div>
 
                 {/* Error banner */}
@@ -130,6 +139,8 @@ function App() {
                         <p className="mt-6 text-surface-200 font-medium">Cargando predicciones...</p>
                         <p className="mt-2 text-sm text-slate-500">Ejecutando modelo Dixon-Coles</p>
                     </div>
+                ) : activeTab === 'modelo' ? (
+                    <ModelInfo />
                 ) : (
                     /* Predictions Table */
                     <PredictionTable

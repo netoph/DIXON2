@@ -280,17 +280,26 @@ def build_training_dataset(fixtures: list = None,
     
     # 1. Fetch from FBref (skip on Render — their IP is blocked by FBref/403)
     if os.environ.get("RENDER"):
-        print("[DataFetcher] Running on Render — skipping FBref (blocked). Using synthetic dataset.")
+        # Load pre-scraped real data bundled with the repo
+        bundled_csv = Path(__file__).parent / "data" / "real_training_data.csv"
+        if bundled_csv.exists():
+            print(f"[DataFetcher] Running on Render — loading bundled real data from {bundled_csv.name}")
+            df = pd.read_csv(bundled_csv, encoding="utf-8")
+            df['home'] = df['home'].apply(normalize_team_name)
+            df['away'] = df['away'].apply(normalize_team_name)
+            all_data.append(df)
+            print(f"[DataFetcher] Loaded {len(df)} real matches from bundled dataset")
+        else:
+            print("[DataFetcher] Running on Render — no bundled data found, using synthetic fallback")
     else:
         for league in leagues:
             df = fetch_fbref_data(league)
             if not df.empty:
                 all_data.append(df)
     
-    # 1b. If FBref returned no data (or skipped), use the full synthetic dataset
-    #     as a rich baseline with proper cross-team matchups
+    # 1b. If no data loaded, use the full synthetic dataset as last resort
     if not all_data:
-        print("[DataFetcher] No FBref data. Loading synthetic base dataset...")
+        print("[DataFetcher] No data available. Loading synthetic base dataset...")
         synthetic_base = _generate_full_synthetic_dataset()
         all_data.append(synthetic_base)
     

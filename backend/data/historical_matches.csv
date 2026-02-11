@@ -1,0 +1,1850 @@
+home,away,home_goals,away_goals,date
+america,chivas,1,1,2024-01-01 00:00:00.000000
+america,cruz azul,0,2,2024-01-02 00:00:00.000000
+america,pumas,1,0,2024-01-03 00:00:00.000000
+america,monterrey,1,2,2024-01-04 00:00:00.000000
+america,tigres,0,1,2024-01-05 00:00:00.000000
+america,santos,1,1,2024-01-06 00:00:00.000000
+america,toluca,2,0,2024-01-07 00:00:00.000000
+america,leon,0,1,2024-01-08 00:00:00.000000
+america,atlas,0,1,2024-01-09 00:00:00.000000
+america,pachuca,0,1,2024-01-10 00:00:00.000000
+america,puebla,0,0,2024-01-11 00:00:00.000000
+america,necaxa,1,0,2024-01-12 00:00:00.000000
+america,queretaro,3,0,2024-01-13 00:00:00.000000
+america,tijuana,0,1,2024-01-14 00:00:00.000000
+america,mazatlan,3,1,2024-01-15 00:00:00.000000
+america,juarez,0,1,2024-01-16 00:00:00.000000
+america,san luis,2,1,2024-01-17 00:00:00.000000
+chivas,america,4,1,2024-01-18 00:00:00.000000
+chivas,cruz azul,3,0,2024-01-19 00:00:00.000000
+chivas,pumas,2,1,2024-01-20 00:00:00.000000
+chivas,monterrey,3,3,2024-01-21 00:00:00.000000
+chivas,tigres,4,1,2024-01-22 00:00:00.000000
+chivas,santos,1,0,2024-01-23 00:00:00.000000
+chivas,toluca,2,1,2024-01-24 00:00:00.000000
+chivas,leon,3,0,2024-01-25 00:00:00.000000
+chivas,atlas,4,1,2024-01-26 00:00:00.000000
+chivas,pachuca,2,2,2024-01-27 00:00:00.000000
+chivas,puebla,2,2,2024-01-28 00:00:00.000000
+chivas,necaxa,2,1,2024-01-29 00:00:00.000000
+chivas,queretaro,2,0,2024-01-30 00:00:00.000000
+chivas,tijuana,2,1,2024-01-31 00:00:00.000000
+chivas,mazatlan,3,3,2024-02-01 00:00:00.000000
+chivas,juarez,3,0,2024-02-02 00:00:00.000000
+chivas,san luis,2,0,2024-02-03 00:00:00.000000
+cruz azul,america,0,0,2024-02-04 00:00:00.000000
+cruz azul,chivas,1,1,2024-02-05 00:00:00.000000
+cruz azul,pumas,2,1,2024-02-06 00:00:00.000000
+cruz azul,monterrey,1,0,2024-02-07 00:00:00.000000
+cruz azul,tigres,1,0,2024-02-08 00:00:00.000000
+cruz azul,santos,1,0,2024-02-09 00:00:00.000000
+cruz azul,toluca,0,0,2024-02-10 00:00:00.000000
+cruz azul,leon,1,1,2024-02-11 00:00:00.000000
+cruz azul,atlas,2,1,2024-02-12 00:00:00.000000
+cruz azul,pachuca,2,1,2024-02-13 00:00:00.000000
+cruz azul,puebla,2,2,2024-02-14 00:00:00.000000
+cruz azul,necaxa,2,0,2024-02-15 00:00:00.000000
+cruz azul,queretaro,3,0,2024-02-16 00:00:00.000000
+cruz azul,tijuana,1,1,2024-02-17 00:00:00.000000
+cruz azul,mazatlan,1,0,2024-02-18 00:00:00.000000
+cruz azul,juarez,1,1,2024-02-19 00:00:00.000000
+cruz azul,san luis,3,0,2024-02-20 00:00:00.000000
+pumas,america,3,1,2024-02-21 00:00:00.000000
+pumas,chivas,1,2,2024-02-22 00:00:00.000000
+pumas,cruz azul,1,0,2024-02-23 00:00:00.000000
+pumas,monterrey,2,1,2024-02-24 00:00:00.000000
+pumas,tigres,0,2,2024-02-25 00:00:00.000000
+pumas,santos,1,2,2024-02-26 00:00:00.000000
+pumas,toluca,2,1,2024-02-27 00:00:00.000000
+pumas,leon,1,0,2024-02-28 00:00:00.000000
+pumas,atlas,2,0,2024-02-29 00:00:00.000000
+pumas,pachuca,2,0,2024-03-01 00:00:00.000000
+pumas,puebla,0,1,2024-03-02 00:00:00.000000
+pumas,necaxa,2,1,2024-03-03 00:00:00.000000
+pumas,queretaro,1,0,2024-03-04 00:00:00.000000
+pumas,tijuana,1,0,2024-03-05 00:00:00.000000
+pumas,mazatlan,2,2,2024-03-06 00:00:00.000000
+pumas,juarez,0,0,2024-03-07 00:00:00.000000
+pumas,san luis,1,0,2024-03-08 00:00:00.000000
+monterrey,america,2,2,2024-03-09 00:00:00.000000
+monterrey,chivas,1,0,2024-03-10 00:00:00.000000
+monterrey,cruz azul,1,2,2024-03-11 00:00:00.000000
+monterrey,pumas,2,2,2024-03-12 00:00:00.000000
+monterrey,tigres,2,0,2024-03-13 00:00:00.000000
+monterrey,santos,3,2,2024-03-14 00:00:00.000000
+monterrey,toluca,1,1,2024-03-15 00:00:00.000000
+monterrey,leon,1,0,2024-03-16 00:00:00.000000
+monterrey,atlas,2,0,2024-03-17 00:00:00.000000
+monterrey,pachuca,4,1,2024-03-18 00:00:00.000000
+monterrey,puebla,2,1,2024-03-19 00:00:00.000000
+monterrey,necaxa,1,0,2024-03-20 00:00:00.000000
+monterrey,queretaro,1,0,2024-03-21 00:00:00.000000
+monterrey,tijuana,0,0,2024-03-22 00:00:00.000000
+monterrey,mazatlan,3,1,2024-03-23 00:00:00.000000
+monterrey,juarez,4,1,2024-03-24 00:00:00.000000
+monterrey,san luis,3,0,2024-03-25 00:00:00.000000
+tigres,america,0,1,2024-03-26 00:00:00.000000
+tigres,chivas,1,1,2024-03-27 00:00:00.000000
+tigres,cruz azul,1,2,2024-03-28 00:00:00.000000
+tigres,pumas,1,1,2024-03-29 00:00:00.000000
+tigres,monterrey,3,2,2024-03-30 00:00:00.000000
+tigres,santos,0,0,2024-03-31 00:00:00.000000
+tigres,toluca,1,2,2024-04-01 00:00:00.000000
+tigres,leon,0,1,2024-04-02 00:00:00.000000
+tigres,atlas,0,0,2024-04-03 00:00:00.000000
+tigres,pachuca,2,2,2024-04-04 00:00:00.000000
+tigres,puebla,3,3,2024-04-05 00:00:00.000000
+tigres,necaxa,3,1,2024-04-06 00:00:00.000000
+tigres,queretaro,3,1,2024-04-07 00:00:00.000000
+tigres,tijuana,5,1,2024-04-08 00:00:00.000000
+tigres,mazatlan,3,0,2024-04-09 00:00:00.000000
+tigres,juarez,2,0,2024-04-10 00:00:00.000000
+tigres,san luis,2,0,2024-04-11 00:00:00.000000
+santos,america,0,1,2024-04-12 00:00:00.000000
+santos,chivas,1,3,2024-04-13 00:00:00.000000
+santos,cruz azul,1,2,2024-04-14 00:00:00.000000
+santos,pumas,0,0,2024-04-15 00:00:00.000000
+santos,monterrey,1,1,2024-04-16 00:00:00.000000
+santos,tigres,1,1,2024-04-17 00:00:00.000000
+santos,toluca,0,2,2024-04-18 00:00:00.000000
+santos,leon,0,0,2024-04-19 00:00:00.000000
+santos,atlas,0,0,2024-04-20 00:00:00.000000
+santos,pachuca,1,1,2024-04-21 00:00:00.000000
+santos,puebla,0,1,2024-04-22 00:00:00.000000
+santos,necaxa,2,0,2024-04-23 00:00:00.000000
+santos,queretaro,0,0,2024-04-24 00:00:00.000000
+santos,tijuana,0,0,2024-04-25 00:00:00.000000
+santos,mazatlan,0,1,2024-04-26 00:00:00.000000
+santos,juarez,1,0,2024-04-27 00:00:00.000000
+santos,san luis,0,2,2024-04-28 00:00:00.000000
+toluca,america,0,0,2024-04-29 00:00:00.000000
+toluca,chivas,0,1,2024-04-30 00:00:00.000000
+toluca,cruz azul,1,1,2024-05-01 00:00:00.000000
+toluca,pumas,1,0,2024-05-02 00:00:00.000000
+toluca,monterrey,0,2,2024-05-03 00:00:00.000000
+toluca,tigres,1,2,2024-05-04 00:00:00.000000
+toluca,santos,0,0,2024-05-05 00:00:00.000000
+toluca,leon,0,2,2024-05-06 00:00:00.000000
+toluca,atlas,1,0,2024-05-07 00:00:00.000000
+toluca,pachuca,1,1,2024-05-08 00:00:00.000000
+toluca,puebla,0,0,2024-05-09 00:00:00.000000
+toluca,necaxa,0,2,2024-05-10 00:00:00.000000
+toluca,queretaro,0,2,2024-05-11 00:00:00.000000
+toluca,tijuana,0,2,2024-05-12 00:00:00.000000
+toluca,mazatlan,1,1,2024-05-13 00:00:00.000000
+toluca,juarez,1,0,2024-05-14 00:00:00.000000
+toluca,san luis,1,0,2024-05-15 00:00:00.000000
+leon,america,1,2,2024-05-16 00:00:00.000000
+leon,chivas,0,1,2024-05-17 00:00:00.000000
+leon,cruz azul,1,1,2024-05-18 00:00:00.000000
+leon,pumas,1,2,2024-05-19 00:00:00.000000
+leon,monterrey,1,2,2024-05-20 00:00:00.000000
+leon,tigres,0,3,2024-05-21 00:00:00.000000
+leon,santos,0,0,2024-05-22 00:00:00.000000
+leon,toluca,1,2,2024-05-23 00:00:00.000000
+leon,atlas,0,0,2024-05-24 00:00:00.000000
+leon,pachuca,1,1,2024-05-25 00:00:00.000000
+leon,puebla,4,2,2024-05-26 00:00:00.000000
+leon,necaxa,1,1,2024-05-27 00:00:00.000000
+leon,queretaro,1,0,2024-05-28 00:00:00.000000
+leon,tijuana,0,1,2024-05-29 00:00:00.000000
+leon,mazatlan,3,1,2024-05-30 00:00:00.000000
+leon,juarez,3,3,2024-05-31 00:00:00.000000
+leon,san luis,2,1,2024-06-01 00:00:00.000000
+atlas,america,2,1,2024-06-02 00:00:00.000000
+atlas,chivas,1,0,2024-06-03 00:00:00.000000
+atlas,cruz azul,1,2,2024-06-04 00:00:00.000000
+atlas,pumas,3,1,2024-06-05 00:00:00.000000
+atlas,monterrey,0,0,2024-06-06 00:00:00.000000
+atlas,tigres,1,0,2024-06-07 00:00:00.000000
+atlas,santos,5,0,2024-06-08 00:00:00.000000
+atlas,toluca,1,0,2024-06-09 00:00:00.000000
+atlas,leon,1,0,2024-06-10 00:00:00.000000
+atlas,pachuca,3,1,2024-06-11 00:00:00.000000
+atlas,puebla,1,1,2024-06-12 00:00:00.000000
+atlas,necaxa,0,2,2024-06-13 00:00:00.000000
+atlas,queretaro,3,0,2024-06-14 00:00:00.000000
+atlas,tijuana,0,1,2024-06-15 00:00:00.000000
+atlas,mazatlan,4,1,2024-06-16 00:00:00.000000
+atlas,juarez,1,2,2024-06-17 00:00:00.000000
+atlas,san luis,3,1,2024-06-18 00:00:00.000000
+pachuca,america,2,1,2024-06-19 00:00:00.000000
+pachuca,chivas,1,1,2024-06-20 00:00:00.000000
+pachuca,cruz azul,2,2,2024-06-21 00:00:00.000000
+pachuca,pumas,2,0,2024-06-22 00:00:00.000000
+pachuca,monterrey,1,2,2024-06-23 00:00:00.000000
+pachuca,tigres,2,0,2024-06-24 00:00:00.000000
+pachuca,santos,1,1,2024-06-25 00:00:00.000000
+pachuca,toluca,1,1,2024-06-26 00:00:00.000000
+pachuca,leon,3,0,2024-06-27 00:00:00.000000
+pachuca,atlas,1,1,2024-06-28 00:00:00.000000
+pachuca,puebla,1,3,2024-06-29 00:00:00.000000
+pachuca,necaxa,2,0,2024-06-30 00:00:00.000000
+pachuca,queretaro,1,1,2024-07-01 00:00:00.000000
+pachuca,tijuana,0,0,2024-07-02 00:00:00.000000
+pachuca,mazatlan,3,1,2024-07-03 00:00:00.000000
+pachuca,juarez,2,0,2024-07-04 00:00:00.000000
+pachuca,san luis,4,2,2024-07-05 00:00:00.000000
+puebla,america,0,2,2024-07-06 00:00:00.000000
+puebla,chivas,0,1,2024-07-07 00:00:00.000000
+puebla,cruz azul,0,2,2024-07-08 00:00:00.000000
+puebla,pumas,2,0,2024-07-09 00:00:00.000000
+puebla,monterrey,2,1,2024-07-10 00:00:00.000000
+puebla,tigres,1,1,2024-07-11 00:00:00.000000
+puebla,santos,1,0,2024-07-12 00:00:00.000000
+puebla,toluca,2,0,2024-07-13 00:00:00.000000
+puebla,leon,0,1,2024-07-14 00:00:00.000000
+puebla,atlas,2,0,2024-07-15 00:00:00.000000
+puebla,pachuca,0,2,2024-07-16 00:00:00.000000
+puebla,necaxa,1,0,2024-07-17 00:00:00.000000
+puebla,queretaro,0,0,2024-07-18 00:00:00.000000
+puebla,tijuana,1,1,2024-07-19 00:00:00.000000
+puebla,mazatlan,1,0,2024-07-20 00:00:00.000000
+puebla,juarez,1,1,2024-07-21 00:00:00.000000
+puebla,san luis,1,0,2024-07-22 00:00:00.000000
+necaxa,america,1,1,2024-07-23 00:00:00.000000
+necaxa,chivas,1,1,2024-07-24 00:00:00.000000
+necaxa,cruz azul,0,0,2024-07-25 00:00:00.000000
+necaxa,pumas,2,3,2024-07-26 00:00:00.000000
+necaxa,monterrey,3,2,2024-07-27 00:00:00.000000
+necaxa,tigres,2,1,2024-07-28 00:00:00.000000
+necaxa,santos,2,3,2024-07-29 00:00:00.000000
+necaxa,toluca,1,2,2024-07-30 00:00:00.000000
+necaxa,leon,2,0,2024-07-31 00:00:00.000000
+necaxa,atlas,0,1,2024-08-01 00:00:00.000000
+necaxa,pachuca,2,0,2024-08-02 00:00:00.000000
+necaxa,puebla,2,3,2024-08-03 00:00:00.000000
+necaxa,queretaro,2,2,2024-08-04 00:00:00.000000
+necaxa,tijuana,1,2,2024-08-05 00:00:00.000000
+necaxa,mazatlan,1,2,2024-08-06 00:00:00.000000
+necaxa,juarez,2,0,2024-08-07 00:00:00.000000
+necaxa,san luis,2,0,2024-08-08 00:00:00.000000
+queretaro,america,2,1,2024-08-09 00:00:00.000000
+queretaro,chivas,0,0,2024-08-10 00:00:00.000000
+queretaro,cruz azul,3,2,2024-08-11 00:00:00.000000
+queretaro,pumas,1,2,2024-08-12 00:00:00.000000
+queretaro,monterrey,1,0,2024-08-13 00:00:00.000000
+queretaro,tigres,1,1,2024-08-14 00:00:00.000000
+queretaro,santos,0,0,2024-08-15 00:00:00.000000
+queretaro,toluca,1,1,2024-08-16 00:00:00.000000
+queretaro,leon,2,3,2024-08-17 00:00:00.000000
+queretaro,atlas,2,1,2024-08-18 00:00:00.000000
+queretaro,pachuca,1,1,2024-08-19 00:00:00.000000
+queretaro,puebla,1,0,2024-08-20 00:00:00.000000
+queretaro,necaxa,1,0,2024-08-21 00:00:00.000000
+queretaro,tijuana,0,1,2024-08-22 00:00:00.000000
+queretaro,mazatlan,0,2,2024-08-23 00:00:00.000000
+queretaro,juarez,2,1,2024-08-24 00:00:00.000000
+queretaro,san luis,0,0,2024-08-25 00:00:00.000000
+tijuana,america,0,4,2024-08-26 00:00:00.000000
+tijuana,chivas,0,1,2024-08-27 00:00:00.000000
+tijuana,cruz azul,0,1,2024-08-28 00:00:00.000000
+tijuana,pumas,3,1,2024-08-29 00:00:00.000000
+tijuana,monterrey,0,0,2024-08-30 00:00:00.000000
+tijuana,tigres,2,0,2024-08-31 00:00:00.000000
+tijuana,santos,0,1,2024-09-01 00:00:00.000000
+tijuana,toluca,1,2,2024-09-02 00:00:00.000000
+tijuana,leon,0,0,2024-09-03 00:00:00.000000
+tijuana,atlas,0,3,2024-09-04 00:00:00.000000
+tijuana,pachuca,3,2,2024-09-05 00:00:00.000000
+tijuana,puebla,2,1,2024-09-06 00:00:00.000000
+tijuana,necaxa,4,1,2024-09-07 00:00:00.000000
+tijuana,queretaro,2,0,2024-09-08 00:00:00.000000
+tijuana,mazatlan,0,1,2024-09-09 00:00:00.000000
+tijuana,juarez,3,0,2024-09-10 00:00:00.000000
+tijuana,san luis,1,2,2024-09-11 00:00:00.000000
+mazatlan,america,3,2,2024-09-12 00:00:00.000000
+mazatlan,chivas,2,2,2024-09-13 00:00:00.000000
+mazatlan,cruz azul,1,4,2024-09-14 00:00:00.000000
+mazatlan,pumas,1,3,2024-09-15 00:00:00.000000
+mazatlan,monterrey,3,1,2024-09-16 00:00:00.000000
+mazatlan,tigres,2,1,2024-09-17 00:00:00.000000
+mazatlan,santos,0,0,2024-09-18 00:00:00.000000
+mazatlan,toluca,1,1,2024-09-19 00:00:00.000000
+mazatlan,leon,1,2,2024-09-20 00:00:00.000000
+mazatlan,atlas,0,0,2024-09-21 00:00:00.000000
+mazatlan,pachuca,1,0,2024-09-22 00:00:00.000000
+mazatlan,puebla,1,0,2024-09-23 00:00:00.000000
+mazatlan,necaxa,0,0,2024-09-24 00:00:00.000000
+mazatlan,queretaro,0,0,2024-09-25 00:00:00.000000
+mazatlan,tijuana,0,0,2024-09-26 00:00:00.000000
+mazatlan,juarez,1,1,2024-09-27 00:00:00.000000
+mazatlan,san luis,0,1,2024-09-28 00:00:00.000000
+juarez,america,1,3,2024-09-29 00:00:00.000000
+juarez,chivas,0,2,2024-09-30 00:00:00.000000
+juarez,cruz azul,0,2,2024-10-01 00:00:00.000000
+juarez,pumas,2,0,2024-10-02 00:00:00.000000
+juarez,monterrey,2,1,2024-10-03 00:00:00.000000
+juarez,tigres,2,2,2024-10-04 00:00:00.000000
+juarez,santos,0,0,2024-10-05 00:00:00.000000
+juarez,toluca,1,0,2024-10-06 00:00:00.000000
+juarez,leon,2,0,2024-10-07 00:00:00.000000
+juarez,atlas,1,2,2024-10-08 00:00:00.000000
+juarez,pachuca,2,1,2024-10-09 00:00:00.000000
+juarez,puebla,2,1,2024-10-10 00:00:00.000000
+juarez,necaxa,2,0,2024-10-11 00:00:00.000000
+juarez,queretaro,1,2,2024-10-12 00:00:00.000000
+juarez,tijuana,0,0,2024-10-13 00:00:00.000000
+juarez,mazatlan,3,0,2024-10-14 00:00:00.000000
+juarez,san luis,2,0,2024-10-15 00:00:00.000000
+san luis,america,2,1,2024-10-16 00:00:00.000000
+san luis,chivas,1,1,2024-10-17 00:00:00.000000
+san luis,cruz azul,1,1,2024-10-18 00:00:00.000000
+san luis,pumas,2,0,2024-10-19 00:00:00.000000
+san luis,monterrey,0,3,2024-10-20 00:00:00.000000
+san luis,tigres,0,0,2024-10-21 00:00:00.000000
+san luis,santos,2,0,2024-10-22 00:00:00.000000
+san luis,toluca,1,2,2024-10-23 00:00:00.000000
+san luis,leon,2,0,2024-10-24 00:00:00.000000
+san luis,atlas,0,2,2024-10-25 00:00:00.000000
+san luis,pachuca,1,3,2024-10-26 00:00:00.000000
+san luis,puebla,2,2,2024-10-27 00:00:00.000000
+san luis,necaxa,0,1,2024-10-28 00:00:00.000000
+san luis,queretaro,1,0,2024-10-29 00:00:00.000000
+san luis,tijuana,0,1,2024-10-30 00:00:00.000000
+san luis,mazatlan,3,1,2024-10-31 00:00:00.000000
+san luis,juarez,1,0,2024-11-01 00:00:00.000000
+america,chivas,1,3,2024-11-02 00:00:00.000000
+america,cruz azul,0,2,2024-11-03 00:00:00.000000
+america,pumas,1,2,2024-11-04 00:00:00.000000
+america,monterrey,1,0,2024-11-05 00:00:00.000000
+america,tigres,1,0,2024-11-06 00:00:00.000000
+america,santos,1,0,2024-11-07 00:00:00.000000
+america,toluca,3,1,2024-11-08 00:00:00.000000
+america,leon,1,1,2024-11-09 00:00:00.000000
+america,atlas,1,0,2024-11-10 00:00:00.000000
+america,pachuca,0,0,2024-11-11 00:00:00.000000
+america,puebla,1,2,2024-11-12 00:00:00.000000
+america,necaxa,2,2,2024-11-13 00:00:00.000000
+america,queretaro,2,3,2024-11-14 00:00:00.000000
+america,tijuana,2,0,2024-11-15 00:00:00.000000
+america,mazatlan,3,0,2024-11-16 00:00:00.000000
+america,juarez,0,1,2024-11-17 00:00:00.000000
+america,san luis,3,3,2024-11-18 00:00:00.000000
+chivas,cruz azul,2,1,2024-11-19 00:00:00.000000
+chivas,pumas,1,1,2024-11-20 00:00:00.000000
+chivas,monterrey,2,1,2024-11-21 00:00:00.000000
+chivas,tigres,1,0,2024-11-22 00:00:00.000000
+chivas,santos,4,0,2024-11-23 00:00:00.000000
+chivas,toluca,0,2,2024-11-24 00:00:00.000000
+chivas,leon,2,2,2024-11-25 00:00:00.000000
+chivas,atlas,1,1,2024-11-26 00:00:00.000000
+chivas,pachuca,2,1,2024-11-27 00:00:00.000000
+chivas,puebla,2,1,2024-11-28 00:00:00.000000
+chivas,necaxa,0,1,2024-11-29 00:00:00.000000
+chivas,queretaro,1,1,2024-11-30 00:00:00.000000
+chivas,tijuana,2,0,2024-12-01 00:00:00.000000
+chivas,mazatlan,3,0,2024-12-02 00:00:00.000000
+chivas,juarez,0,0,2024-12-03 00:00:00.000000
+chivas,san luis,2,1,2024-12-04 00:00:00.000000
+cruz azul,pumas,0,0,2024-12-05 00:00:00.000000
+cruz azul,monterrey,1,2,2024-12-06 00:00:00.000000
+cruz azul,tigres,0,2,2024-12-07 00:00:00.000000
+cruz azul,santos,3,0,2024-12-08 00:00:00.000000
+cruz azul,toluca,1,0,2024-12-09 00:00:00.000000
+cruz azul,leon,2,1,2024-12-10 00:00:00.000000
+cruz azul,atlas,5,0,2024-12-11 00:00:00.000000
+cruz azul,pachuca,1,1,2024-12-12 00:00:00.000000
+cruz azul,puebla,0,1,2024-12-13 00:00:00.000000
+cruz azul,necaxa,1,1,2024-12-14 00:00:00.000000
+cruz azul,queretaro,3,0,2024-12-15 00:00:00.000000
+cruz azul,tijuana,4,1,2024-12-16 00:00:00.000000
+cruz azul,mazatlan,2,0,2024-12-17 00:00:00.000000
+cruz azul,juarez,5,0,2024-12-18 00:00:00.000000
+cruz azul,san luis,2,0,2024-12-19 00:00:00.000000
+pumas,monterrey,1,1,2024-12-20 00:00:00.000000
+pumas,tigres,1,1,2024-12-21 00:00:00.000000
+pumas,santos,2,0,2024-12-22 00:00:00.000000
+pumas,toluca,1,0,2024-12-23 00:00:00.000000
+pumas,leon,2,0,2024-12-24 00:00:00.000000
+pumas,atlas,0,0,2024-12-25 00:00:00.000000
+pumas,pachuca,2,3,2024-12-26 00:00:00.000000
+pumas,puebla,3,1,2024-12-27 00:00:00.000000
+pumas,necaxa,4,3,2024-12-28 00:00:00.000000
+pumas,queretaro,0,1,2024-12-29 00:00:00.000000
+pumas,tijuana,2,0,2024-12-30 00:00:00.000000
+pumas,mazatlan,1,2,2024-12-31 00:00:00.000000
+pumas,juarez,3,0,2025-01-01 00:00:00.000000
+pumas,san luis,3,0,2025-01-02 00:00:00.000000
+monterrey,tigres,0,0,2025-01-03 00:00:00.000000
+monterrey,santos,3,0,2025-01-04 00:00:00.000000
+monterrey,toluca,0,2,2025-01-05 00:00:00.000000
+monterrey,leon,0,1,2025-01-06 00:00:00.000000
+monterrey,atlas,0,1,2025-01-07 00:00:00.000000
+monterrey,pachuca,2,0,2025-01-08 00:00:00.000000
+monterrey,puebla,1,0,2025-01-09 00:00:00.000000
+monterrey,necaxa,1,0,2025-01-10 00:00:00.000000
+monterrey,queretaro,1,1,2025-01-11 00:00:00.000000
+monterrey,tijuana,2,0,2025-01-12 00:00:00.000000
+monterrey,mazatlan,2,0,2025-01-13 00:00:00.000000
+monterrey,juarez,3,1,2025-01-14 00:00:00.000000
+monterrey,san luis,3,1,2025-01-15 00:00:00.000000
+tigres,santos,3,0,2025-01-16 00:00:00.000000
+tigres,toluca,0,2,2025-01-17 00:00:00.000000
+tigres,leon,2,1,2025-01-18 00:00:00.000000
+tigres,atlas,1,0,2025-01-19 00:00:00.000000
+tigres,pachuca,3,2,2025-01-20 00:00:00.000000
+tigres,puebla,1,1,2025-01-21 00:00:00.000000
+tigres,necaxa,0,2,2025-01-22 00:00:00.000000
+tigres,queretaro,1,1,2025-01-23 00:00:00.000000
+tigres,tijuana,2,1,2025-01-24 00:00:00.000000
+tigres,mazatlan,1,0,2025-01-25 00:00:00.000000
+tigres,juarez,3,0,2025-01-26 00:00:00.000000
+tigres,san luis,0,0,2025-01-27 00:00:00.000000
+santos,toluca,1,0,2025-01-28 00:00:00.000000
+santos,leon,0,2,2025-01-29 00:00:00.000000
+santos,atlas,1,0,2025-01-30 00:00:00.000000
+santos,pachuca,1,2,2025-01-31 00:00:00.000000
+santos,puebla,1,3,2025-02-01 00:00:00.000000
+santos,necaxa,1,1,2025-02-02 00:00:00.000000
+santos,queretaro,1,0,2025-02-03 00:00:00.000000
+santos,tijuana,0,1,2025-02-04 00:00:00.000000
+santos,mazatlan,0,1,2025-02-05 00:00:00.000000
+santos,juarez,0,2,2025-02-06 00:00:00.000000
+santos,san luis,2,1,2025-02-07 00:00:00.000000
+toluca,leon,1,0,2025-02-08 00:00:00.000000
+toluca,atlas,1,0,2025-02-09 00:00:00.000000
+toluca,pachuca,1,0,2025-02-10 00:00:00.000000
+toluca,puebla,1,3,2025-02-11 00:00:00.000000
+toluca,necaxa,1,0,2025-02-12 00:00:00.000000
+toluca,queretaro,0,1,2025-02-13 00:00:00.000000
+toluca,tijuana,0,0,2025-02-14 00:00:00.000000
+toluca,mazatlan,0,0,2025-02-15 00:00:00.000000
+toluca,juarez,2,1,2025-02-16 00:00:00.000000
+toluca,san luis,2,0,2025-02-17 00:00:00.000000
+leon,atlas,2,0,2025-02-18 00:00:00.000000
+leon,pachuca,1,1,2025-02-19 00:00:00.000000
+leon,puebla,2,1,2025-02-20 00:00:00.000000
+leon,necaxa,1,0,2025-02-21 00:00:00.000000
+leon,queretaro,0,0,2025-02-22 00:00:00.000000
+leon,tijuana,1,1,2025-02-23 00:00:00.000000
+leon,mazatlan,0,1,2025-02-24 00:00:00.000000
+leon,juarez,0,1,2025-02-25 00:00:00.000000
+leon,san luis,1,4,2025-02-26 00:00:00.000000
+atlas,pachuca,1,1,2025-02-27 00:00:00.000000
+atlas,puebla,4,0,2025-02-28 00:00:00.000000
+atlas,necaxa,1,1,2025-03-01 00:00:00.000000
+atlas,queretaro,2,0,2025-03-02 00:00:00.000000
+atlas,tijuana,0,0,2025-03-03 00:00:00.000000
+atlas,mazatlan,0,0,2025-03-04 00:00:00.000000
+atlas,juarez,1,0,2025-03-05 00:00:00.000000
+atlas,san luis,1,2,2025-03-06 00:00:00.000000
+pachuca,puebla,4,0,2025-03-07 00:00:00.000000
+pachuca,necaxa,1,3,2025-03-08 00:00:00.000000
+pachuca,queretaro,1,1,2025-03-09 00:00:00.000000
+pachuca,tijuana,1,0,2025-03-10 00:00:00.000000
+pachuca,mazatlan,3,0,2025-03-11 00:00:00.000000
+pachuca,juarez,2,1,2025-03-12 00:00:00.000000
+pachuca,san luis,1,2,2025-03-13 00:00:00.000000
+puebla,necaxa,3,2,2025-03-14 00:00:00.000000
+puebla,queretaro,1,1,2025-03-15 00:00:00.000000
+puebla,tijuana,1,2,2025-03-16 00:00:00.000000
+puebla,mazatlan,3,0,2025-03-17 00:00:00.000000
+puebla,juarez,1,1,2025-03-18 00:00:00.000000
+puebla,san luis,1,0,2025-03-19 00:00:00.000000
+necaxa,queretaro,4,1,2025-03-20 00:00:00.000000
+necaxa,tijuana,2,1,2025-03-21 00:00:00.000000
+necaxa,mazatlan,3,1,2025-03-22 00:00:00.000000
+necaxa,juarez,0,1,2025-03-23 00:00:00.000000
+necaxa,san luis,0,1,2025-03-24 00:00:00.000000
+queretaro,tijuana,1,1,2025-03-25 00:00:00.000000
+queretaro,mazatlan,0,0,2025-03-26 00:00:00.000000
+queretaro,juarez,2,1,2025-03-27 00:00:00.000000
+queretaro,san luis,1,0,2025-03-28 00:00:00.000000
+tijuana,mazatlan,2,0,2025-03-29 00:00:00.000000
+tijuana,juarez,2,0,2025-03-30 00:00:00.000000
+tijuana,san luis,1,0,2025-03-31 00:00:00.000000
+mazatlan,juarez,1,1,2025-04-01 00:00:00.000000
+mazatlan,san luis,1,1,2025-04-02 00:00:00.000000
+juarez,san luis,1,1,2025-04-03 00:00:00.000000
+arsenal,man city,2,0,2025-04-04 00:00:00.000000
+arsenal,liverpool,0,1,2025-04-05 00:00:00.000000
+arsenal,man united,1,1,2025-04-06 00:00:00.000000
+arsenal,tottenham,0,1,2025-04-07 00:00:00.000000
+arsenal,chelsea,1,0,2025-04-08 00:00:00.000000
+arsenal,newcastle,1,0,2025-04-09 00:00:00.000000
+arsenal,brighton,2,1,2025-04-10 00:00:00.000000
+arsenal,aston villa,2,1,2025-04-11 00:00:00.000000
+arsenal,west ham,2,1,2025-04-12 00:00:00.000000
+arsenal,wolves,2,0,2025-04-13 00:00:00.000000
+arsenal,bournemouth,1,0,2025-04-14 00:00:00.000000
+arsenal,crystal palace,3,3,2025-04-15 00:00:00.000000
+arsenal,fulham,4,1,2025-04-16 00:00:00.000000
+arsenal,brentford,0,0,2025-04-17 00:00:00.000000
+arsenal,everton,1,0,2025-04-18 00:00:00.000000
+arsenal,nott'ham forest,1,0,2025-04-19 00:00:00.000000
+arsenal,leicester,1,1,2025-04-20 00:00:00.000000
+arsenal,ipswich,0,1,2025-04-21 00:00:00.000000
+arsenal,southampton,2,1,2025-04-22 00:00:00.000000
+man city,arsenal,0,1,2025-04-23 00:00:00.000000
+man city,liverpool,1,0,2025-04-24 00:00:00.000000
+man city,man united,3,1,2025-04-25 00:00:00.000000
+man city,tottenham,0,1,2025-04-26 00:00:00.000000
+man city,chelsea,2,1,2025-04-27 00:00:00.000000
+man city,newcastle,5,0,2025-04-28 00:00:00.000000
+man city,brighton,1,0,2025-04-29 00:00:00.000000
+man city,aston villa,3,0,2025-04-30 00:00:00.000000
+man city,west ham,2,0,2025-05-01 00:00:00.000000
+man city,wolves,3,0,2025-05-02 00:00:00.000000
+man city,bournemouth,0,0,2025-05-03 00:00:00.000000
+man city,crystal palace,4,1,2025-05-04 00:00:00.000000
+man city,fulham,2,2,2025-05-05 00:00:00.000000
+man city,brentford,3,0,2025-05-06 00:00:00.000000
+man city,everton,5,1,2025-05-07 00:00:00.000000
+man city,nott'ham forest,1,0,2025-05-08 00:00:00.000000
+man city,leicester,0,0,2025-05-09 00:00:00.000000
+man city,ipswich,2,1,2025-05-10 00:00:00.000000
+man city,southampton,2,0,2025-05-11 00:00:00.000000
+liverpool,arsenal,3,1,2025-05-12 00:00:00.000000
+liverpool,man city,3,4,2025-05-13 00:00:00.000000
+liverpool,man united,5,2,2025-05-14 00:00:00.000000
+liverpool,tottenham,3,1,2024-01-01 00:00:00.000000
+liverpool,chelsea,1,3,2024-01-02 00:00:00.000000
+liverpool,newcastle,2,1,2024-01-03 00:00:00.000000
+liverpool,brighton,0,0,2024-01-04 00:00:00.000000
+liverpool,aston villa,2,1,2024-01-05 00:00:00.000000
+liverpool,west ham,3,0,2024-01-06 00:00:00.000000
+liverpool,wolves,1,2,2024-01-07 00:00:00.000000
+liverpool,bournemouth,2,1,2024-01-08 00:00:00.000000
+liverpool,crystal palace,1,1,2024-01-09 00:00:00.000000
+liverpool,fulham,4,0,2024-01-10 00:00:00.000000
+liverpool,brentford,6,1,2024-01-11 00:00:00.000000
+liverpool,everton,1,2,2024-01-12 00:00:00.000000
+liverpool,nott'ham forest,3,0,2024-01-13 00:00:00.000000
+liverpool,leicester,2,1,2024-01-14 00:00:00.000000
+liverpool,ipswich,0,1,2024-01-15 00:00:00.000000
+liverpool,southampton,2,0,2024-01-16 00:00:00.000000
+man united,arsenal,1,1,2024-01-17 00:00:00.000000
+man united,man city,0,6,2024-01-18 00:00:00.000000
+man united,liverpool,0,2,2024-01-19 00:00:00.000000
+man united,tottenham,0,1,2024-01-20 00:00:00.000000
+man united,chelsea,1,0,2024-01-21 00:00:00.000000
+man united,newcastle,0,0,2024-01-22 00:00:00.000000
+man united,brighton,2,0,2024-01-23 00:00:00.000000
+man united,aston villa,2,1,2024-01-24 00:00:00.000000
+man united,west ham,3,3,2024-01-25 00:00:00.000000
+man united,wolves,0,3,2024-01-26 00:00:00.000000
+man united,bournemouth,3,0,2024-01-27 00:00:00.000000
+man united,crystal palace,0,1,2024-01-28 00:00:00.000000
+man united,fulham,4,1,2024-01-29 00:00:00.000000
+man united,brentford,1,3,2024-01-30 00:00:00.000000
+man united,everton,0,1,2024-01-31 00:00:00.000000
+man united,nott'ham forest,0,2,2024-02-01 00:00:00.000000
+man united,leicester,0,1,2024-02-02 00:00:00.000000
+man united,ipswich,5,0,2024-02-03 00:00:00.000000
+man united,southampton,1,0,2024-02-04 00:00:00.000000
+tottenham,arsenal,1,0,2024-02-05 00:00:00.000000
+tottenham,man city,0,0,2024-02-06 00:00:00.000000
+tottenham,liverpool,0,2,2024-02-07 00:00:00.000000
+tottenham,man united,1,0,2024-02-08 00:00:00.000000
+tottenham,chelsea,1,1,2024-02-09 00:00:00.000000
+tottenham,newcastle,2,1,2024-02-10 00:00:00.000000
+tottenham,brighton,1,1,2024-02-11 00:00:00.000000
+tottenham,aston villa,0,2,2024-02-12 00:00:00.000000
+tottenham,west ham,2,0,2024-02-13 00:00:00.000000
+tottenham,wolves,0,3,2024-02-14 00:00:00.000000
+tottenham,bournemouth,1,2,2024-02-15 00:00:00.000000
+tottenham,crystal palace,1,0,2024-02-16 00:00:00.000000
+tottenham,fulham,1,0,2024-02-17 00:00:00.000000
+tottenham,brentford,1,1,2024-02-18 00:00:00.000000
+tottenham,everton,2,1,2024-02-19 00:00:00.000000
+tottenham,nott'ham forest,0,1,2024-02-20 00:00:00.000000
+tottenham,leicester,1,1,2024-02-21 00:00:00.000000
+tottenham,ipswich,2,0,2024-02-22 00:00:00.000000
+tottenham,southampton,1,4,2024-02-23 00:00:00.000000
+chelsea,arsenal,1,3,2024-02-24 00:00:00.000000
+chelsea,man city,1,3,2024-02-25 00:00:00.000000
+chelsea,liverpool,0,1,2024-02-26 00:00:00.000000
+chelsea,man united,1,2,2024-02-27 00:00:00.000000
+chelsea,tottenham,2,0,2024-02-28 00:00:00.000000
+chelsea,newcastle,0,0,2024-02-29 00:00:00.000000
+chelsea,brighton,0,2,2024-03-01 00:00:00.000000
+chelsea,aston villa,1,1,2024-03-02 00:00:00.000000
+chelsea,west ham,0,0,2024-03-03 00:00:00.000000
+chelsea,wolves,1,0,2024-03-04 00:00:00.000000
+chelsea,bournemouth,0,0,2024-03-05 00:00:00.000000
+chelsea,crystal palace,1,0,2024-03-06 00:00:00.000000
+chelsea,fulham,2,0,2024-03-07 00:00:00.000000
+chelsea,brentford,0,0,2024-03-08 00:00:00.000000
+chelsea,everton,2,2,2024-03-09 00:00:00.000000
+chelsea,nott'ham forest,2,1,2024-03-10 00:00:00.000000
+chelsea,leicester,1,0,2024-03-11 00:00:00.000000
+chelsea,ipswich,2,1,2024-03-12 00:00:00.000000
+chelsea,southampton,2,1,2024-03-13 00:00:00.000000
+newcastle,arsenal,1,2,2024-03-14 00:00:00.000000
+newcastle,man city,1,4,2024-03-15 00:00:00.000000
+newcastle,liverpool,0,3,2024-03-16 00:00:00.000000
+newcastle,man united,0,0,2024-03-17 00:00:00.000000
+newcastle,tottenham,2,2,2024-03-18 00:00:00.000000
+newcastle,chelsea,2,1,2024-03-19 00:00:00.000000
+newcastle,brighton,2,2,2024-03-20 00:00:00.000000
+newcastle,aston villa,0,1,2024-03-21 00:00:00.000000
+newcastle,west ham,0,2,2024-03-22 00:00:00.000000
+newcastle,wolves,0,0,2024-03-23 00:00:00.000000
+newcastle,bournemouth,2,2,2024-03-24 00:00:00.000000
+newcastle,crystal palace,3,0,2024-03-25 00:00:00.000000
+newcastle,fulham,0,1,2024-03-26 00:00:00.000000
+newcastle,brentford,2,0,2024-03-27 00:00:00.000000
+newcastle,everton,0,2,2024-03-28 00:00:00.000000
+newcastle,nott'ham forest,1,1,2024-03-29 00:00:00.000000
+newcastle,leicester,1,1,2024-03-30 00:00:00.000000
+newcastle,ipswich,1,1,2024-03-31 00:00:00.000000
+newcastle,southampton,2,1,2024-04-01 00:00:00.000000
+brighton,arsenal,0,2,2024-04-02 00:00:00.000000
+brighton,man city,2,1,2024-04-03 00:00:00.000000
+brighton,liverpool,0,3,2024-04-04 00:00:00.000000
+brighton,man united,1,1,2024-04-05 00:00:00.000000
+brighton,tottenham,0,0,2024-04-06 00:00:00.000000
+brighton,chelsea,1,1,2024-04-07 00:00:00.000000
+brighton,newcastle,4,1,2024-04-08 00:00:00.000000
+brighton,aston villa,1,1,2024-04-09 00:00:00.000000
+brighton,west ham,2,1,2024-04-10 00:00:00.000000
+brighton,wolves,1,2,2024-04-11 00:00:00.000000
+brighton,bournemouth,1,1,2024-04-12 00:00:00.000000
+brighton,crystal palace,1,2,2024-04-13 00:00:00.000000
+brighton,fulham,3,1,2024-04-14 00:00:00.000000
+brighton,brentford,1,1,2024-04-15 00:00:00.000000
+brighton,everton,1,2,2024-04-16 00:00:00.000000
+brighton,nott'ham forest,1,1,2024-04-17 00:00:00.000000
+brighton,leicester,1,5,2024-04-18 00:00:00.000000
+brighton,ipswich,2,1,2024-04-19 00:00:00.000000
+brighton,southampton,2,0,2024-04-20 00:00:00.000000
+aston villa,arsenal,1,1,2024-04-21 00:00:00.000000
+aston villa,man city,1,1,2024-04-22 00:00:00.000000
+aston villa,liverpool,2,1,2024-04-23 00:00:00.000000
+aston villa,man united,0,1,2024-04-24 00:00:00.000000
+aston villa,tottenham,3,1,2024-04-25 00:00:00.000000
+aston villa,chelsea,2,1,2024-04-26 00:00:00.000000
+aston villa,newcastle,0,1,2024-04-27 00:00:00.000000
+aston villa,brighton,0,0,2024-04-28 00:00:00.000000
+aston villa,west ham,1,0,2024-04-29 00:00:00.000000
+aston villa,wolves,0,3,2024-04-30 00:00:00.000000
+aston villa,bournemouth,0,5,2024-05-01 00:00:00.000000
+aston villa,crystal palace,1,0,2024-05-02 00:00:00.000000
+aston villa,fulham,1,1,2024-05-03 00:00:00.000000
+aston villa,brentford,2,1,2024-05-04 00:00:00.000000
+aston villa,everton,0,2,2024-05-05 00:00:00.000000
+aston villa,nott'ham forest,1,1,2024-05-06 00:00:00.000000
+aston villa,leicester,1,0,2024-05-07 00:00:00.000000
+aston villa,ipswich,0,2,2024-05-08 00:00:00.000000
+aston villa,southampton,0,0,2024-05-09 00:00:00.000000
+west ham,arsenal,1,1,2024-05-10 00:00:00.000000
+west ham,man city,1,1,2024-05-11 00:00:00.000000
+west ham,liverpool,1,3,2024-05-12 00:00:00.000000
+west ham,man united,0,0,2024-05-13 00:00:00.000000
+west ham,tottenham,0,4,2024-05-14 00:00:00.000000
+west ham,chelsea,2,5,2024-05-15 00:00:00.000000
+west ham,newcastle,0,2,2024-05-16 00:00:00.000000
+west ham,brighton,3,1,2024-05-17 00:00:00.000000
+west ham,aston villa,1,0,2024-05-18 00:00:00.000000
+west ham,wolves,1,4,2024-05-19 00:00:00.000000
+west ham,bournemouth,1,2,2024-05-20 00:00:00.000000
+west ham,crystal palace,1,0,2024-05-21 00:00:00.000000
+west ham,fulham,2,1,2024-05-22 00:00:00.000000
+west ham,brentford,2,0,2024-05-23 00:00:00.000000
+west ham,everton,0,0,2024-05-24 00:00:00.000000
+west ham,nott'ham forest,0,1,2024-05-25 00:00:00.000000
+west ham,leicester,0,0,2024-05-26 00:00:00.000000
+west ham,ipswich,0,1,2024-05-27 00:00:00.000000
+west ham,southampton,3,2,2024-05-28 00:00:00.000000
+wolves,arsenal,2,1,2024-05-29 00:00:00.000000
+wolves,man city,3,3,2024-05-30 00:00:00.000000
+wolves,liverpool,0,0,2024-05-31 00:00:00.000000
+wolves,man united,1,0,2024-06-01 00:00:00.000000
+wolves,tottenham,5,0,2024-06-02 00:00:00.000000
+wolves,chelsea,2,1,2024-06-03 00:00:00.000000
+wolves,newcastle,0,1,2024-06-04 00:00:00.000000
+wolves,brighton,3,3,2024-06-05 00:00:00.000000
+wolves,aston villa,2,0,2024-06-06 00:00:00.000000
+wolves,west ham,2,0,2024-06-07 00:00:00.000000
+wolves,bournemouth,3,1,2024-06-08 00:00:00.000000
+wolves,crystal palace,1,1,2024-06-09 00:00:00.000000
+wolves,fulham,1,0,2024-06-10 00:00:00.000000
+wolves,brentford,4,0,2024-06-11 00:00:00.000000
+wolves,everton,2,3,2024-06-12 00:00:00.000000
+wolves,nott'ham forest,3,0,2024-06-13 00:00:00.000000
+wolves,leicester,2,0,2024-06-14 00:00:00.000000
+wolves,ipswich,0,0,2024-06-15 00:00:00.000000
+wolves,southampton,1,1,2024-06-16 00:00:00.000000
+bournemouth,arsenal,1,0,2024-06-17 00:00:00.000000
+bournemouth,man city,1,0,2024-06-18 00:00:00.000000
+bournemouth,liverpool,1,3,2024-06-19 00:00:00.000000
+bournemouth,man united,0,0,2024-06-20 00:00:00.000000
+bournemouth,tottenham,3,0,2024-06-21 00:00:00.000000
+bournemouth,chelsea,1,0,2024-06-22 00:00:00.000000
+bournemouth,newcastle,0,0,2024-06-23 00:00:00.000000
+bournemouth,brighton,2,0,2024-06-24 00:00:00.000000
+bournemouth,aston villa,1,1,2024-06-25 00:00:00.000000
+bournemouth,west ham,1,0,2024-06-26 00:00:00.000000
+bournemouth,wolves,1,1,2024-06-27 00:00:00.000000
+bournemouth,crystal palace,1,2,2024-06-28 00:00:00.000000
+bournemouth,fulham,1,1,2024-06-29 00:00:00.000000
+bournemouth,brentford,1,1,2024-06-30 00:00:00.000000
+bournemouth,everton,4,1,2024-07-01 00:00:00.000000
+bournemouth,nott'ham forest,4,1,2024-07-02 00:00:00.000000
+bournemouth,leicester,1,1,2024-07-03 00:00:00.000000
+bournemouth,ipswich,0,1,2024-07-04 00:00:00.000000
+bournemouth,southampton,1,0,2024-07-05 00:00:00.000000
+crystal palace,arsenal,2,0,2024-07-06 00:00:00.000000
+crystal palace,man city,1,2,2024-07-07 00:00:00.000000
+crystal palace,liverpool,1,1,2024-07-08 00:00:00.000000
+crystal palace,man united,0,1,2024-07-09 00:00:00.000000
+crystal palace,tottenham,3,3,2024-07-10 00:00:00.000000
+crystal palace,chelsea,0,2,2024-07-11 00:00:00.000000
+crystal palace,newcastle,0,1,2024-07-12 00:00:00.000000
+crystal palace,brighton,2,2,2024-07-13 00:00:00.000000
+crystal palace,aston villa,1,0,2024-07-14 00:00:00.000000
+crystal palace,west ham,1,2,2024-07-15 00:00:00.000000
+crystal palace,wolves,1,0,2024-07-16 00:00:00.000000
+crystal palace,bournemouth,2,4,2024-07-17 00:00:00.000000
+crystal palace,fulham,3,0,2024-07-18 00:00:00.000000
+crystal palace,brentford,1,2,2024-07-19 00:00:00.000000
+crystal palace,everton,0,2,2024-07-20 00:00:00.000000
+crystal palace,nott'ham forest,2,1,2024-07-21 00:00:00.000000
+crystal palace,leicester,2,0,2024-07-22 00:00:00.000000
+crystal palace,ipswich,0,1,2024-07-23 00:00:00.000000
+crystal palace,southampton,0,1,2024-07-24 00:00:00.000000
+fulham,arsenal,1,2,2024-07-25 00:00:00.000000
+fulham,man city,1,0,2024-07-26 00:00:00.000000
+fulham,liverpool,0,1,2024-07-27 00:00:00.000000
+fulham,man united,1,1,2024-07-28 00:00:00.000000
+fulham,tottenham,2,1,2024-07-29 00:00:00.000000
+fulham,chelsea,3,1,2024-07-30 00:00:00.000000
+fulham,newcastle,1,1,2024-07-31 00:00:00.000000
+fulham,brighton,1,0,2024-08-01 00:00:00.000000
+fulham,aston villa,0,1,2024-08-02 00:00:00.000000
+fulham,west ham,0,0,2024-08-03 00:00:00.000000
+fulham,wolves,0,0,2024-08-04 00:00:00.000000
+fulham,bournemouth,2,4,2024-08-05 00:00:00.000000
+fulham,crystal palace,0,1,2024-08-06 00:00:00.000000
+fulham,brentford,2,2,2024-08-07 00:00:00.000000
+fulham,everton,1,2,2024-08-08 00:00:00.000000
+fulham,nott'ham forest,0,2,2024-08-09 00:00:00.000000
+fulham,leicester,0,2,2024-08-10 00:00:00.000000
+fulham,ipswich,1,1,2024-08-11 00:00:00.000000
+fulham,southampton,2,2,2024-08-12 00:00:00.000000
+brentford,arsenal,3,3,2024-08-13 00:00:00.000000
+brentford,man city,2,2,2024-08-14 00:00:00.000000
+brentford,liverpool,1,3,2024-08-15 00:00:00.000000
+brentford,man united,2,1,2024-08-16 00:00:00.000000
+brentford,tottenham,0,1,2024-08-17 00:00:00.000000
+brentford,chelsea,0,1,2024-08-18 00:00:00.000000
+brentford,newcastle,1,0,2024-08-19 00:00:00.000000
+brentford,brighton,4,1,2024-08-20 00:00:00.000000
+brentford,aston villa,0,0,2024-08-21 00:00:00.000000
+brentford,west ham,2,0,2024-08-22 00:00:00.000000
+brentford,wolves,0,2,2024-08-23 00:00:00.000000
+brentford,bournemouth,1,1,2024-08-24 00:00:00.000000
+brentford,crystal palace,1,0,2024-08-25 00:00:00.000000
+brentford,fulham,2,1,2024-08-26 00:00:00.000000
+brentford,everton,2,1,2024-08-27 00:00:00.000000
+brentford,nott'ham forest,0,2,2024-08-28 00:00:00.000000
+brentford,leicester,2,1,2024-08-29 00:00:00.000000
+brentford,ipswich,2,2,2024-08-30 00:00:00.000000
+brentford,southampton,1,1,2024-08-31 00:00:00.000000
+everton,arsenal,1,0,2024-09-01 00:00:00.000000
+everton,man city,1,1,2024-09-02 00:00:00.000000
+everton,liverpool,2,1,2024-09-03 00:00:00.000000
+everton,man united,1,1,2024-09-04 00:00:00.000000
+everton,tottenham,0,0,2024-09-05 00:00:00.000000
+everton,chelsea,2,1,2024-09-06 00:00:00.000000
+everton,newcastle,5,2,2024-09-07 00:00:00.000000
+everton,brighton,4,0,2024-09-08 00:00:00.000000
+everton,aston villa,0,1,2024-09-09 00:00:00.000000
+everton,west ham,1,0,2024-09-10 00:00:00.000000
+everton,wolves,0,1,2024-09-11 00:00:00.000000
+everton,bournemouth,1,0,2024-09-12 00:00:00.000000
+everton,crystal palace,2,3,2024-09-13 00:00:00.000000
+everton,fulham,3,1,2024-09-14 00:00:00.000000
+everton,brentford,2,0,2024-09-15 00:00:00.000000
+everton,nott'ham forest,3,0,2024-09-16 00:00:00.000000
+everton,leicester,4,0,2024-09-17 00:00:00.000000
+everton,ipswich,2,0,2024-09-18 00:00:00.000000
+everton,southampton,1,0,2024-09-19 00:00:00.000000
+nott'ham forest,arsenal,1,0,2024-09-20 00:00:00.000000
+nott'ham forest,man city,0,0,2024-09-21 00:00:00.000000
+nott'ham forest,liverpool,1,1,2024-09-22 00:00:00.000000
+nott'ham forest,man united,4,0,2024-09-23 00:00:00.000000
+nott'ham forest,tottenham,0,2,2024-09-24 00:00:00.000000
+nott'ham forest,chelsea,1,0,2024-09-25 00:00:00.000000
+nott'ham forest,newcastle,1,0,2024-09-26 00:00:00.000000
+nott'ham forest,brighton,2,1,2024-09-27 00:00:00.000000
+nott'ham forest,aston villa,2,1,2024-09-28 00:00:00.000000
+nott'ham forest,west ham,1,0,2024-09-29 00:00:00.000000
+nott'ham forest,wolves,1,1,2024-09-30 00:00:00.000000
+nott'ham forest,bournemouth,2,1,2024-10-01 00:00:00.000000
+nott'ham forest,crystal palace,1,2,2024-10-02 00:00:00.000000
+nott'ham forest,fulham,1,1,2024-10-03 00:00:00.000000
+nott'ham forest,brentford,3,0,2024-10-04 00:00:00.000000
+nott'ham forest,everton,2,0,2024-10-05 00:00:00.000000
+nott'ham forest,leicester,0,1,2024-10-06 00:00:00.000000
+nott'ham forest,ipswich,1,1,2024-10-07 00:00:00.000000
+nott'ham forest,southampton,1,2,2024-10-08 00:00:00.000000
+leicester,arsenal,1,1,2024-10-09 00:00:00.000000
+leicester,man city,0,5,2024-10-10 00:00:00.000000
+leicester,liverpool,4,1,2024-10-11 00:00:00.000000
+leicester,man united,1,1,2024-10-12 00:00:00.000000
+leicester,tottenham,3,2,2024-10-13 00:00:00.000000
+leicester,chelsea,1,0,2024-10-14 00:00:00.000000
+leicester,newcastle,1,0,2024-10-15 00:00:00.000000
+leicester,brighton,3,3,2024-10-16 00:00:00.000000
+leicester,aston villa,1,0,2024-10-17 00:00:00.000000
+leicester,west ham,1,0,2024-10-18 00:00:00.000000
+leicester,wolves,0,3,2024-10-19 00:00:00.000000
+leicester,bournemouth,3,3,2024-10-20 00:00:00.000000
+leicester,crystal palace,2,0,2024-10-21 00:00:00.000000
+leicester,fulham,2,0,2024-10-22 00:00:00.000000
+leicester,brentford,1,3,2024-10-23 00:00:00.000000
+leicester,everton,1,2,2024-10-24 00:00:00.000000
+leicester,nott'ham forest,1,1,2024-10-25 00:00:00.000000
+leicester,ipswich,0,2,2024-10-26 00:00:00.000000
+leicester,southampton,2,2,2024-10-27 00:00:00.000000
+ipswich,arsenal,1,4,2024-10-28 00:00:00.000000
+ipswich,man city,0,5,2024-10-29 00:00:00.000000
+ipswich,liverpool,0,3,2024-10-30 00:00:00.000000
+ipswich,man united,2,0,2024-10-31 00:00:00.000000
+ipswich,tottenham,1,0,2024-11-01 00:00:00.000000
+ipswich,chelsea,2,3,2024-11-02 00:00:00.000000
+ipswich,newcastle,0,0,2024-11-03 00:00:00.000000
+ipswich,brighton,0,0,2024-11-04 00:00:00.000000
+ipswich,aston villa,0,3,2024-11-05 00:00:00.000000
+ipswich,west ham,1,0,2024-11-06 00:00:00.000000
+ipswich,wolves,0,0,2024-11-07 00:00:00.000000
+ipswich,bournemouth,2,1,2024-11-08 00:00:00.000000
+ipswich,crystal palace,0,0,2024-11-09 00:00:00.000000
+ipswich,fulham,0,0,2024-11-10 00:00:00.000000
+ipswich,brentford,0,0,2024-11-11 00:00:00.000000
+ipswich,everton,2,1,2024-11-12 00:00:00.000000
+ipswich,nott'ham forest,1,1,2024-11-13 00:00:00.000000
+ipswich,leicester,2,2,2024-11-14 00:00:00.000000
+ipswich,southampton,1,1,2024-11-15 00:00:00.000000
+southampton,arsenal,1,1,2024-11-16 00:00:00.000000
+southampton,man city,1,1,2024-11-17 00:00:00.000000
+southampton,liverpool,0,4,2024-11-18 00:00:00.000000
+southampton,man united,4,0,2024-11-19 00:00:00.000000
+southampton,tottenham,3,1,2024-11-20 00:00:00.000000
+southampton,chelsea,1,1,2024-11-21 00:00:00.000000
+southampton,newcastle,1,1,2024-11-22 00:00:00.000000
+southampton,brighton,1,1,2024-11-23 00:00:00.000000
+southampton,aston villa,4,0,2024-11-24 00:00:00.000000
+southampton,west ham,1,1,2024-11-25 00:00:00.000000
+southampton,wolves,1,1,2024-11-26 00:00:00.000000
+southampton,bournemouth,2,1,2024-11-27 00:00:00.000000
+southampton,crystal palace,1,1,2024-11-28 00:00:00.000000
+southampton,fulham,4,2,2024-11-29 00:00:00.000000
+southampton,brentford,1,0,2024-11-30 00:00:00.000000
+southampton,everton,1,3,2024-12-01 00:00:00.000000
+southampton,nott'ham forest,1,0,2024-12-02 00:00:00.000000
+southampton,leicester,2,0,2024-12-03 00:00:00.000000
+southampton,ipswich,1,0,2024-12-04 00:00:00.000000
+arsenal,man city,0,0,2024-12-05 00:00:00.000000
+arsenal,liverpool,3,1,2024-12-06 00:00:00.000000
+arsenal,man united,4,1,2024-12-07 00:00:00.000000
+arsenal,tottenham,0,0,2024-12-08 00:00:00.000000
+arsenal,chelsea,2,0,2024-12-09 00:00:00.000000
+arsenal,newcastle,1,0,2024-12-10 00:00:00.000000
+arsenal,brighton,3,1,2024-12-11 00:00:00.000000
+arsenal,aston villa,2,1,2024-12-12 00:00:00.000000
+arsenal,west ham,1,2,2024-12-13 00:00:00.000000
+arsenal,wolves,2,3,2024-12-14 00:00:00.000000
+arsenal,bournemouth,0,2,2024-12-15 00:00:00.000000
+arsenal,crystal palace,0,0,2024-12-16 00:00:00.000000
+arsenal,fulham,4,1,2024-12-17 00:00:00.000000
+arsenal,brentford,2,0,2024-12-18 00:00:00.000000
+arsenal,everton,0,0,2024-12-19 00:00:00.000000
+arsenal,nott'ham forest,1,1,2024-12-20 00:00:00.000000
+arsenal,leicester,1,2,2024-12-21 00:00:00.000000
+arsenal,ipswich,2,1,2024-12-22 00:00:00.000000
+arsenal,southampton,3,1,2024-12-23 00:00:00.000000
+man city,liverpool,1,1,2024-12-24 00:00:00.000000
+man city,man united,3,1,2024-12-25 00:00:00.000000
+man city,tottenham,2,0,2024-12-26 00:00:00.000000
+man city,chelsea,3,1,2024-12-27 00:00:00.000000
+man city,newcastle,1,1,2024-12-28 00:00:00.000000
+man city,brighton,5,0,2024-12-29 00:00:00.000000
+man city,aston villa,0,2,2024-12-30 00:00:00.000000
+man city,west ham,3,1,2024-12-31 00:00:00.000000
+man city,wolves,1,0,2025-01-01 00:00:00.000000
+man city,bournemouth,4,0,2025-01-02 00:00:00.000000
+man city,crystal palace,2,1,2025-01-03 00:00:00.000000
+man city,fulham,3,2,2025-01-04 00:00:00.000000
+man city,brentford,0,1,2025-01-05 00:00:00.000000
+man city,everton,4,0,2025-01-06 00:00:00.000000
+man city,nott'ham forest,0,0,2025-01-07 00:00:00.000000
+man city,leicester,2,0,2025-01-08 00:00:00.000000
+man city,ipswich,2,2,2025-01-09 00:00:00.000000
+man city,southampton,1,0,2025-01-10 00:00:00.000000
+liverpool,man united,2,0,2025-01-11 00:00:00.000000
+liverpool,tottenham,4,0,2025-01-12 00:00:00.000000
+liverpool,chelsea,2,1,2025-01-13 00:00:00.000000
+liverpool,newcastle,0,0,2025-01-14 00:00:00.000000
+liverpool,brighton,4,1,2025-01-15 00:00:00.000000
+liverpool,aston villa,2,0,2025-01-16 00:00:00.000000
+liverpool,west ham,1,1,2025-01-17 00:00:00.000000
+liverpool,wolves,1,1,2025-01-18 00:00:00.000000
+liverpool,bournemouth,3,0,2025-01-19 00:00:00.000000
+liverpool,crystal palace,3,1,2025-01-20 00:00:00.000000
+liverpool,fulham,1,2,2025-01-21 00:00:00.000000
+liverpool,brentford,2,0,2025-01-22 00:00:00.000000
+liverpool,everton,1,0,2025-01-23 00:00:00.000000
+liverpool,nott'ham forest,0,0,2025-01-24 00:00:00.000000
+liverpool,leicester,3,1,2025-01-25 00:00:00.000000
+liverpool,ipswich,2,2,2025-01-26 00:00:00.000000
+liverpool,southampton,3,0,2025-01-27 00:00:00.000000
+man united,tottenham,0,1,2025-01-28 00:00:00.000000
+man united,chelsea,1,3,2025-01-29 00:00:00.000000
+man united,newcastle,2,0,2025-01-30 00:00:00.000000
+man united,brighton,3,2,2025-01-31 00:00:00.000000
+man united,aston villa,3,0,2025-02-01 00:00:00.000000
+man united,west ham,1,1,2025-02-02 00:00:00.000000
+man united,wolves,2,2,2025-02-03 00:00:00.000000
+man united,bournemouth,1,1,2025-02-04 00:00:00.000000
+man united,crystal palace,0,0,2025-02-05 00:00:00.000000
+man united,fulham,2,0,2025-02-06 00:00:00.000000
+man united,brentford,2,2,2025-02-07 00:00:00.000000
+man united,everton,1,1,2025-02-08 00:00:00.000000
+man united,nott'ham forest,1,0,2025-02-09 00:00:00.000000
+man united,leicester,3,3,2025-02-10 00:00:00.000000
+man united,ipswich,3,1,2025-02-11 00:00:00.000000
+man united,southampton,1,0,2025-02-12 00:00:00.000000
+tottenham,chelsea,1,1,2025-02-13 00:00:00.000000
+tottenham,newcastle,1,1,2025-02-14 00:00:00.000000
+tottenham,brighton,3,0,2025-02-15 00:00:00.000000
+tottenham,aston villa,1,0,2025-02-16 00:00:00.000000
+tottenham,west ham,2,0,2025-02-17 00:00:00.000000
+tottenham,wolves,0,2,2025-02-18 00:00:00.000000
+tottenham,bournemouth,1,2,2025-02-19 00:00:00.000000
+tottenham,crystal palace,2,1,2025-02-20 00:00:00.000000
+tottenham,fulham,1,0,2025-02-21 00:00:00.000000
+tottenham,brentford,1,0,2025-02-22 00:00:00.000000
+tottenham,everton,2,0,2025-02-23 00:00:00.000000
+tottenham,nott'ham forest,0,1,2025-02-24 00:00:00.000000
+tottenham,leicester,1,1,2025-02-25 00:00:00.000000
+tottenham,ipswich,0,0,2025-02-26 00:00:00.000000
+tottenham,southampton,1,0,2025-02-27 00:00:00.000000
+chelsea,newcastle,1,1,2025-02-28 00:00:00.000000
+chelsea,brighton,0,0,2025-03-01 00:00:00.000000
+chelsea,aston villa,0,2,2025-03-02 00:00:00.000000
+chelsea,west ham,2,1,2025-03-03 00:00:00.000000
+chelsea,wolves,2,1,2025-03-04 00:00:00.000000
+chelsea,bournemouth,1,3,2025-03-05 00:00:00.000000
+chelsea,crystal palace,2,2,2025-03-06 00:00:00.000000
+chelsea,fulham,1,3,2025-03-07 00:00:00.000000
+chelsea,brentford,1,1,2025-03-08 00:00:00.000000
+chelsea,everton,0,1,2025-03-09 00:00:00.000000
+chelsea,nott'ham forest,1,1,2025-03-10 00:00:00.000000
+chelsea,leicester,1,0,2025-03-11 00:00:00.000000
+chelsea,ipswich,0,1,2025-03-12 00:00:00.000000
+chelsea,southampton,0,0,2025-03-13 00:00:00.000000
+newcastle,brighton,0,1,2025-03-14 00:00:00.000000
+newcastle,aston villa,0,0,2025-03-15 00:00:00.000000
+newcastle,west ham,1,0,2025-03-16 00:00:00.000000
+newcastle,wolves,0,1,2025-03-17 00:00:00.000000
+newcastle,bournemouth,2,2,2025-03-18 00:00:00.000000
+newcastle,crystal palace,1,0,2025-03-19 00:00:00.000000
+newcastle,fulham,0,1,2025-03-20 00:00:00.000000
+newcastle,brentford,4,2,2025-03-21 00:00:00.000000
+newcastle,everton,0,3,2025-03-22 00:00:00.000000
+newcastle,nott'ham forest,3,1,2025-03-23 00:00:00.000000
+newcastle,leicester,1,1,2025-03-24 00:00:00.000000
+newcastle,ipswich,2,2,2025-03-25 00:00:00.000000
+newcastle,southampton,1,1,2025-03-26 00:00:00.000000
+brighton,aston villa,2,1,2025-03-27 00:00:00.000000
+brighton,west ham,4,0,2025-03-28 00:00:00.000000
+brighton,wolves,2,1,2025-03-29 00:00:00.000000
+brighton,bournemouth,1,0,2025-03-30 00:00:00.000000
+brighton,crystal palace,2,1,2025-03-31 00:00:00.000000
+brighton,fulham,1,1,2025-04-01 00:00:00.000000
+brighton,brentford,3,3,2025-04-02 00:00:00.000000
+brighton,everton,2,3,2025-04-03 00:00:00.000000
+brighton,nott'ham forest,0,1,2025-04-04 00:00:00.000000
+brighton,leicester,2,2,2025-04-05 00:00:00.000000
+brighton,ipswich,3,3,2025-04-06 00:00:00.000000
+brighton,southampton,1,1,2025-04-07 00:00:00.000000
+aston villa,west ham,0,1,2025-04-08 00:00:00.000000
+aston villa,wolves,0,2,2025-04-09 00:00:00.000000
+aston villa,bournemouth,2,2,2025-04-10 00:00:00.000000
+aston villa,crystal palace,1,2,2025-04-11 00:00:00.000000
+aston villa,fulham,3,2,2025-04-12 00:00:00.000000
+aston villa,brentford,1,1,2025-04-13 00:00:00.000000
+aston villa,everton,2,2,2025-04-14 00:00:00.000000
+aston villa,nott'ham forest,0,2,2025-04-15 00:00:00.000000
+aston villa,leicester,0,3,2025-04-16 00:00:00.000000
+aston villa,ipswich,1,0,2025-04-17 00:00:00.000000
+aston villa,southampton,0,0,2025-04-18 00:00:00.000000
+west ham,wolves,0,1,2025-04-19 00:00:00.000000
+west ham,bournemouth,1,1,2025-04-20 00:00:00.000000
+west ham,crystal palace,3,2,2025-04-21 00:00:00.000000
+west ham,fulham,0,1,2025-04-22 00:00:00.000000
+west ham,brentford,2,1,2025-04-23 00:00:00.000000
+west ham,everton,1,0,2025-04-24 00:00:00.000000
+west ham,nott'ham forest,1,1,2025-04-25 00:00:00.000000
+west ham,leicester,1,1,2025-04-26 00:00:00.000000
+west ham,ipswich,1,2,2025-04-27 00:00:00.000000
+west ham,southampton,0,3,2025-04-28 00:00:00.000000
+wolves,bournemouth,2,0,2025-04-29 00:00:00.000000
+wolves,crystal palace,1,2,2025-04-30 00:00:00.000000
+wolves,fulham,3,2,2025-05-01 00:00:00.000000
+wolves,brentford,1,0,2025-05-02 00:00:00.000000
+wolves,everton,1,3,2025-05-03 00:00:00.000000
+wolves,nott'ham forest,3,0,2025-05-04 00:00:00.000000
+wolves,leicester,1,1,2025-05-05 00:00:00.000000
+wolves,ipswich,0,0,2025-05-06 00:00:00.000000
+wolves,southampton,0,0,2025-05-07 00:00:00.000000
+bournemouth,crystal palace,1,0,2025-05-08 00:00:00.000000
+bournemouth,fulham,0,0,2025-05-09 00:00:00.000000
+bournemouth,brentford,0,0,2025-05-10 00:00:00.000000
+bournemouth,everton,0,0,2025-05-11 00:00:00.000000
+bournemouth,nott'ham forest,2,0,2025-05-12 00:00:00.000000
+bournemouth,leicester,0,0,2025-05-13 00:00:00.000000
+bournemouth,ipswich,1,1,2025-05-14 00:00:00.000000
+bournemouth,southampton,2,2,2024-01-01 00:00:00.000000
+crystal palace,fulham,0,4,2024-01-02 00:00:00.000000
+crystal palace,brentford,2,1,2024-01-03 00:00:00.000000
+crystal palace,everton,0,4,2024-01-04 00:00:00.000000
+crystal palace,nott'ham forest,1,0,2024-01-05 00:00:00.000000
+crystal palace,leicester,2,0,2024-01-06 00:00:00.000000
+crystal palace,ipswich,2,1,2024-01-07 00:00:00.000000
+crystal palace,southampton,4,0,2024-01-08 00:00:00.000000
+fulham,brentford,1,2,2024-01-09 00:00:00.000000
+fulham,everton,0,0,2024-01-10 00:00:00.000000
+fulham,nott'ham forest,0,0,2024-01-11 00:00:00.000000
+fulham,leicester,1,1,2024-01-12 00:00:00.000000
+fulham,ipswich,3,2,2024-01-13 00:00:00.000000
+fulham,southampton,0,0,2024-01-14 00:00:00.000000
+brentford,everton,0,3,2024-01-15 00:00:00.000000
+brentford,nott'ham forest,1,0,2024-01-16 00:00:00.000000
+brentford,leicester,0,2,2024-01-17 00:00:00.000000
+brentford,ipswich,2,0,2024-01-18 00:00:00.000000
+brentford,southampton,0,1,2024-01-19 00:00:00.000000
+everton,nott'ham forest,3,2,2024-01-20 00:00:00.000000
+everton,leicester,2,3,2024-01-21 00:00:00.000000
+everton,ipswich,2,1,2024-01-22 00:00:00.000000
+everton,southampton,1,1,2024-01-23 00:00:00.000000
+nott'ham forest,leicester,0,0,2024-01-24 00:00:00.000000
+nott'ham forest,ipswich,1,1,2024-01-25 00:00:00.000000
+nott'ham forest,southampton,1,1,2024-01-26 00:00:00.000000
+leicester,ipswich,0,0,2024-01-27 00:00:00.000000
+leicester,southampton,0,1,2024-01-28 00:00:00.000000
+ipswich,southampton,0,1,2024-01-29 00:00:00.000000
+barcelona,real madrid,0,1,2024-01-30 00:00:00.000000
+barcelona,atletico madrid,0,1,2024-01-31 00:00:00.000000
+barcelona,real sociedad,2,1,2024-02-01 00:00:00.000000
+barcelona,real betis,0,0,2024-02-02 00:00:00.000000
+barcelona,villarreal,0,0,2024-02-03 00:00:00.000000
+barcelona,athletic bilbao,0,2,2024-02-04 00:00:00.000000
+barcelona,sevilla,0,0,2024-02-05 00:00:00.000000
+barcelona,girona,2,0,2024-02-06 00:00:00.000000
+barcelona,valencia,1,0,2024-02-07 00:00:00.000000
+barcelona,mallorca,0,1,2024-02-08 00:00:00.000000
+barcelona,las palmas,1,1,2024-02-09 00:00:00.000000
+barcelona,getafe,2,0,2024-02-10 00:00:00.000000
+barcelona,rayo vallecano,1,1,2024-02-11 00:00:00.000000
+barcelona,osasuna,1,1,2024-02-12 00:00:00.000000
+barcelona,celta vigo,1,1,2024-02-13 00:00:00.000000
+barcelona,alaves,1,0,2024-02-14 00:00:00.000000
+barcelona,leganes,2,2,2024-02-15 00:00:00.000000
+barcelona,espanyol,1,1,2024-02-16 00:00:00.000000
+barcelona,valladolid,0,1,2024-02-17 00:00:00.000000
+real madrid,barcelona,1,2,2024-02-18 00:00:00.000000
+real madrid,atletico madrid,1,0,2024-02-19 00:00:00.000000
+real madrid,real sociedad,1,0,2024-02-20 00:00:00.000000
+real madrid,real betis,0,0,2024-02-21 00:00:00.000000
+real madrid,villarreal,1,1,2024-02-22 00:00:00.000000
+real madrid,athletic bilbao,2,1,2024-02-23 00:00:00.000000
+real madrid,sevilla,1,1,2024-02-24 00:00:00.000000
+real madrid,girona,3,0,2024-02-25 00:00:00.000000
+real madrid,valencia,0,1,2024-02-26 00:00:00.000000
+real madrid,mallorca,0,1,2024-02-27 00:00:00.000000
+real madrid,las palmas,0,0,2024-02-28 00:00:00.000000
+real madrid,getafe,0,0,2024-02-29 00:00:00.000000
+real madrid,rayo vallecano,1,1,2024-03-01 00:00:00.000000
+real madrid,osasuna,0,1,2024-03-02 00:00:00.000000
+real madrid,celta vigo,1,0,2024-03-03 00:00:00.000000
+real madrid,alaves,1,1,2024-03-04 00:00:00.000000
+real madrid,leganes,2,0,2024-03-05 00:00:00.000000
+real madrid,espanyol,1,0,2024-03-06 00:00:00.000000
+real madrid,valladolid,3,3,2024-03-07 00:00:00.000000
+atletico madrid,barcelona,2,0,2024-03-08 00:00:00.000000
+atletico madrid,real madrid,1,0,2024-03-09 00:00:00.000000
+atletico madrid,real sociedad,1,2,2024-03-10 00:00:00.000000
+atletico madrid,real betis,2,0,2024-03-11 00:00:00.000000
+atletico madrid,villarreal,1,0,2024-03-12 00:00:00.000000
+atletico madrid,athletic bilbao,1,1,2024-03-13 00:00:00.000000
+atletico madrid,sevilla,0,0,2024-03-14 00:00:00.000000
+atletico madrid,girona,2,0,2024-03-15 00:00:00.000000
+atletico madrid,valencia,1,0,2024-03-16 00:00:00.000000
+atletico madrid,mallorca,2,0,2024-03-17 00:00:00.000000
+atletico madrid,las palmas,1,0,2024-03-18 00:00:00.000000
+atletico madrid,getafe,2,1,2024-03-19 00:00:00.000000
+atletico madrid,rayo vallecano,1,1,2024-03-20 00:00:00.000000
+atletico madrid,osasuna,2,1,2024-03-21 00:00:00.000000
+atletico madrid,celta vigo,0,1,2024-03-22 00:00:00.000000
+atletico madrid,alaves,0,0,2024-03-23 00:00:00.000000
+atletico madrid,leganes,2,1,2024-03-24 00:00:00.000000
+atletico madrid,espanyol,1,1,2024-03-25 00:00:00.000000
+atletico madrid,valladolid,0,0,2024-03-26 00:00:00.000000
+real sociedad,barcelona,1,0,2024-03-27 00:00:00.000000
+real sociedad,real madrid,0,0,2024-03-28 00:00:00.000000
+real sociedad,atletico madrid,0,3,2024-03-29 00:00:00.000000
+real sociedad,real betis,2,0,2024-03-30 00:00:00.000000
+real sociedad,villarreal,0,0,2024-03-31 00:00:00.000000
+real sociedad,athletic bilbao,1,1,2024-04-01 00:00:00.000000
+real sociedad,sevilla,0,0,2024-04-02 00:00:00.000000
+real sociedad,girona,0,0,2024-04-03 00:00:00.000000
+real sociedad,valencia,1,2,2024-04-04 00:00:00.000000
+real sociedad,mallorca,0,0,2024-04-05 00:00:00.000000
+real sociedad,las palmas,1,0,2024-04-06 00:00:00.000000
+real sociedad,getafe,0,1,2024-04-07 00:00:00.000000
+real sociedad,rayo vallecano,2,1,2024-04-08 00:00:00.000000
+real sociedad,osasuna,2,1,2024-04-09 00:00:00.000000
+real sociedad,celta vigo,0,1,2024-04-10 00:00:00.000000
+real sociedad,alaves,0,2,2024-04-11 00:00:00.000000
+real sociedad,leganes,2,0,2024-04-12 00:00:00.000000
+real sociedad,espanyol,0,1,2024-04-13 00:00:00.000000
+real sociedad,valladolid,0,1,2024-04-14 00:00:00.000000
+real betis,barcelona,2,0,2024-04-15 00:00:00.000000
+real betis,real madrid,1,1,2024-04-16 00:00:00.000000
+real betis,atletico madrid,0,0,2024-04-17 00:00:00.000000
+real betis,real sociedad,0,0,2024-04-18 00:00:00.000000
+real betis,villarreal,1,0,2024-04-19 00:00:00.000000
+real betis,athletic bilbao,2,0,2024-04-20 00:00:00.000000
+real betis,sevilla,1,0,2024-04-21 00:00:00.000000
+real betis,girona,1,1,2024-04-22 00:00:00.000000
+real betis,valencia,1,1,2024-04-23 00:00:00.000000
+real betis,mallorca,0,1,2024-04-24 00:00:00.000000
+real betis,las palmas,2,1,2024-04-25 00:00:00.000000
+real betis,getafe,0,1,2024-04-26 00:00:00.000000
+real betis,rayo vallecano,1,0,2024-04-27 00:00:00.000000
+real betis,osasuna,1,0,2024-04-28 00:00:00.000000
+real betis,celta vigo,2,2,2024-04-29 00:00:00.000000
+real betis,alaves,0,1,2024-04-30 00:00:00.000000
+real betis,leganes,1,1,2024-05-01 00:00:00.000000
+real betis,espanyol,1,2,2024-05-02 00:00:00.000000
+real betis,valladolid,1,0,2024-05-03 00:00:00.000000
+villarreal,barcelona,1,0,2024-05-04 00:00:00.000000
+villarreal,real madrid,3,0,2024-05-05 00:00:00.000000
+villarreal,atletico madrid,1,0,2024-05-06 00:00:00.000000
+villarreal,real sociedad,0,0,2024-05-07 00:00:00.000000
+villarreal,real betis,1,0,2024-05-08 00:00:00.000000
+villarreal,athletic bilbao,1,0,2024-05-09 00:00:00.000000
+villarreal,sevilla,1,0,2024-05-10 00:00:00.000000
+villarreal,girona,0,1,2024-05-11 00:00:00.000000
+villarreal,valencia,0,0,2024-05-12 00:00:00.000000
+villarreal,mallorca,1,0,2024-05-13 00:00:00.000000
+villarreal,las palmas,1,0,2024-05-14 00:00:00.000000
+villarreal,getafe,0,0,2024-05-15 00:00:00.000000
+villarreal,rayo vallecano,2,0,2024-05-16 00:00:00.000000
+villarreal,osasuna,3,1,2024-05-17 00:00:00.000000
+villarreal,celta vigo,1,1,2024-05-18 00:00:00.000000
+villarreal,alaves,0,1,2024-05-19 00:00:00.000000
+villarreal,leganes,2,1,2024-05-20 00:00:00.000000
+villarreal,espanyol,2,0,2024-05-21 00:00:00.000000
+villarreal,valladolid,2,0,2024-05-22 00:00:00.000000
+athletic bilbao,barcelona,1,0,2024-05-23 00:00:00.000000
+athletic bilbao,real madrid,1,0,2024-05-24 00:00:00.000000
+athletic bilbao,atletico madrid,0,0,2024-05-25 00:00:00.000000
+athletic bilbao,real sociedad,2,0,2024-05-26 00:00:00.000000
+athletic bilbao,real betis,0,2,2024-05-27 00:00:00.000000
+athletic bilbao,villarreal,1,0,2024-05-28 00:00:00.000000
+athletic bilbao,sevilla,2,0,2024-05-29 00:00:00.000000
+athletic bilbao,girona,0,0,2024-05-30 00:00:00.000000
+athletic bilbao,valencia,4,1,2024-05-31 00:00:00.000000
+athletic bilbao,mallorca,1,1,2024-06-01 00:00:00.000000
+athletic bilbao,las palmas,0,1,2024-06-02 00:00:00.000000
+athletic bilbao,getafe,1,3,2024-06-03 00:00:00.000000
+athletic bilbao,rayo vallecano,0,0,2024-06-04 00:00:00.000000
+athletic bilbao,osasuna,1,0,2024-06-05 00:00:00.000000
+athletic bilbao,celta vigo,1,0,2024-06-06 00:00:00.000000
+athletic bilbao,alaves,0,0,2024-06-07 00:00:00.000000
+athletic bilbao,leganes,1,1,2024-06-08 00:00:00.000000
+athletic bilbao,espanyol,1,2,2024-06-09 00:00:00.000000
+athletic bilbao,valladolid,0,0,2024-06-10 00:00:00.000000
+sevilla,barcelona,1,0,2024-06-11 00:00:00.000000
+sevilla,real madrid,2,0,2024-06-12 00:00:00.000000
+sevilla,atletico madrid,1,1,2024-06-13 00:00:00.000000
+sevilla,real sociedad,2,0,2024-06-14 00:00:00.000000
+sevilla,real betis,0,1,2024-06-15 00:00:00.000000
+sevilla,villarreal,2,0,2024-06-16 00:00:00.000000
+sevilla,athletic bilbao,0,0,2024-06-17 00:00:00.000000
+sevilla,girona,0,1,2024-06-18 00:00:00.000000
+sevilla,valencia,1,1,2024-06-19 00:00:00.000000
+sevilla,mallorca,1,0,2024-06-20 00:00:00.000000
+sevilla,las palmas,0,1,2024-06-21 00:00:00.000000
+sevilla,getafe,1,2,2024-06-22 00:00:00.000000
+sevilla,rayo vallecano,0,1,2024-06-23 00:00:00.000000
+sevilla,osasuna,2,0,2024-06-24 00:00:00.000000
+sevilla,celta vigo,1,1,2024-06-25 00:00:00.000000
+sevilla,alaves,2,1,2024-06-26 00:00:00.000000
+sevilla,leganes,3,1,2024-06-27 00:00:00.000000
+sevilla,espanyol,1,1,2024-06-28 00:00:00.000000
+sevilla,valladolid,0,1,2024-06-29 00:00:00.000000
+girona,barcelona,0,4,2024-06-30 00:00:00.000000
+girona,real madrid,2,0,2024-07-01 00:00:00.000000
+girona,atletico madrid,1,2,2024-07-02 00:00:00.000000
+girona,real sociedad,1,0,2024-07-03 00:00:00.000000
+girona,real betis,4,1,2024-07-04 00:00:00.000000
+girona,villarreal,1,0,2024-07-05 00:00:00.000000
+girona,athletic bilbao,1,3,2024-07-06 00:00:00.000000
+girona,sevilla,0,1,2024-07-07 00:00:00.000000
+girona,valencia,1,2,2024-07-08 00:00:00.000000
+girona,mallorca,1,0,2024-07-09 00:00:00.000000
+girona,las palmas,1,0,2024-07-10 00:00:00.000000
+girona,getafe,0,2,2024-07-11 00:00:00.000000
+girona,rayo vallecano,1,1,2024-07-12 00:00:00.000000
+girona,osasuna,1,1,2024-07-13 00:00:00.000000
+girona,celta vigo,1,0,2024-07-14 00:00:00.000000
+girona,alaves,2,0,2024-07-15 00:00:00.000000
+girona,leganes,5,1,2024-07-16 00:00:00.000000
+girona,espanyol,1,1,2024-07-17 00:00:00.000000
+girona,valladolid,1,1,2024-07-18 00:00:00.000000
+valencia,barcelona,2,0,2024-07-19 00:00:00.000000
+valencia,real madrid,0,1,2024-07-20 00:00:00.000000
+valencia,atletico madrid,1,1,2024-07-21 00:00:00.000000
+valencia,real sociedad,1,0,2024-07-22 00:00:00.000000
+valencia,real betis,2,0,2024-07-23 00:00:00.000000
+valencia,villarreal,0,0,2024-07-24 00:00:00.000000
+valencia,athletic bilbao,0,0,2024-07-25 00:00:00.000000
+valencia,sevilla,1,1,2024-07-26 00:00:00.000000
+valencia,girona,1,0,2024-07-27 00:00:00.000000
+valencia,mallorca,2,0,2024-07-28 00:00:00.000000
+valencia,las palmas,2,1,2024-07-29 00:00:00.000000
+valencia,getafe,2,0,2024-07-30 00:00:00.000000
+valencia,rayo vallecano,1,1,2024-07-31 00:00:00.000000
+valencia,osasuna,0,0,2024-08-01 00:00:00.000000
+valencia,celta vigo,1,0,2024-08-02 00:00:00.000000
+valencia,alaves,1,1,2024-08-03 00:00:00.000000
+valencia,leganes,4,0,2024-08-04 00:00:00.000000
+valencia,espanyol,0,2,2024-08-05 00:00:00.000000
+valencia,valladolid,1,2,2024-08-06 00:00:00.000000
+mallorca,barcelona,0,0,2024-08-07 00:00:00.000000
+mallorca,real madrid,0,0,2024-08-08 00:00:00.000000
+mallorca,atletico madrid,1,0,2024-08-09 00:00:00.000000
+mallorca,real sociedad,1,0,2024-08-10 00:00:00.000000
+mallorca,real betis,1,1,2024-08-11 00:00:00.000000
+mallorca,villarreal,1,0,2024-08-12 00:00:00.000000
+mallorca,athletic bilbao,0,0,2024-08-13 00:00:00.000000
+mallorca,sevilla,0,1,2024-08-14 00:00:00.000000
+mallorca,girona,1,0,2024-08-15 00:00:00.000000
+mallorca,valencia,1,0,2024-08-16 00:00:00.000000
+mallorca,las palmas,1,0,2024-08-17 00:00:00.000000
+mallorca,getafe,1,1,2024-08-18 00:00:00.000000
+mallorca,rayo vallecano,2,2,2024-08-19 00:00:00.000000
+mallorca,osasuna,0,1,2024-08-20 00:00:00.000000
+mallorca,celta vigo,0,0,2024-08-21 00:00:00.000000
+mallorca,alaves,0,3,2024-08-22 00:00:00.000000
+mallorca,leganes,1,1,2024-08-23 00:00:00.000000
+mallorca,espanyol,1,1,2024-08-24 00:00:00.000000
+mallorca,valladolid,0,0,2024-08-25 00:00:00.000000
+las palmas,barcelona,0,1,2024-08-26 00:00:00.000000
+las palmas,real madrid,1,0,2024-08-27 00:00:00.000000
+las palmas,atletico madrid,0,0,2024-08-28 00:00:00.000000
+las palmas,real sociedad,0,1,2024-08-29 00:00:00.000000
+las palmas,real betis,1,0,2024-08-30 00:00:00.000000
+las palmas,villarreal,0,0,2024-08-31 00:00:00.000000
+las palmas,athletic bilbao,0,0,2024-09-01 00:00:00.000000
+las palmas,sevilla,0,1,2024-09-02 00:00:00.000000
+las palmas,girona,4,2,2024-09-03 00:00:00.000000
+las palmas,valencia,2,2,2024-09-04 00:00:00.000000
+las palmas,mallorca,1,0,2024-09-05 00:00:00.000000
+las palmas,getafe,0,1,2024-09-06 00:00:00.000000
+las palmas,rayo vallecano,1,1,2024-09-07 00:00:00.000000
+las palmas,osasuna,0,1,2024-09-08 00:00:00.000000
+las palmas,celta vigo,0,1,2024-09-09 00:00:00.000000
+las palmas,alaves,3,1,2024-09-10 00:00:00.000000
+las palmas,leganes,2,0,2024-09-11 00:00:00.000000
+las palmas,espanyol,1,1,2024-09-12 00:00:00.000000
+las palmas,valladolid,2,2,2024-09-13 00:00:00.000000
+getafe,barcelona,0,0,2024-09-14 00:00:00.000000
+getafe,real madrid,0,1,2024-09-15 00:00:00.000000
+getafe,atletico madrid,0,0,2024-09-16 00:00:00.000000
+getafe,real sociedad,0,0,2024-09-17 00:00:00.000000
+getafe,real betis,1,0,2024-09-18 00:00:00.000000
+getafe,villarreal,1,0,2024-09-19 00:00:00.000000
+getafe,athletic bilbao,1,1,2024-09-20 00:00:00.000000
+getafe,sevilla,2,0,2024-09-21 00:00:00.000000
+getafe,girona,2,3,2024-09-22 00:00:00.000000
+getafe,valencia,2,1,2024-09-23 00:00:00.000000
+getafe,mallorca,2,1,2024-09-24 00:00:00.000000
+getafe,las palmas,2,0,2024-09-25 00:00:00.000000
+getafe,rayo vallecano,0,2,2024-09-26 00:00:00.000000
+getafe,osasuna,1,1,2024-09-27 00:00:00.000000
+getafe,celta vigo,0,0,2024-09-28 00:00:00.000000
+getafe,alaves,0,1,2024-09-29 00:00:00.000000
+getafe,leganes,1,1,2024-09-30 00:00:00.000000
+getafe,espanyol,0,0,2024-10-01 00:00:00.000000
+getafe,valladolid,0,1,2024-10-02 00:00:00.000000
+rayo vallecano,barcelona,1,0,2024-10-03 00:00:00.000000
+rayo vallecano,real madrid,0,0,2024-10-04 00:00:00.000000
+rayo vallecano,atletico madrid,1,0,2024-10-05 00:00:00.000000
+rayo vallecano,real sociedad,1,0,2024-10-06 00:00:00.000000
+rayo vallecano,real betis,3,3,2024-10-07 00:00:00.000000
+rayo vallecano,villarreal,1,0,2024-10-08 00:00:00.000000
+rayo vallecano,athletic bilbao,1,0,2024-10-09 00:00:00.000000
+rayo vallecano,sevilla,1,1,2024-10-10 00:00:00.000000
+rayo vallecano,girona,1,2,2024-10-11 00:00:00.000000
+rayo vallecano,valencia,1,0,2024-10-12 00:00:00.000000
+rayo vallecano,mallorca,1,0,2024-10-13 00:00:00.000000
+rayo vallecano,las palmas,1,0,2024-10-14 00:00:00.000000
+rayo vallecano,getafe,4,0,2024-10-15 00:00:00.000000
+rayo vallecano,osasuna,3,1,2024-10-16 00:00:00.000000
+rayo vallecano,celta vigo,2,1,2024-10-17 00:00:00.000000
+rayo vallecano,alaves,1,0,2024-10-18 00:00:00.000000
+rayo vallecano,leganes,2,2,2024-10-19 00:00:00.000000
+rayo vallecano,espanyol,2,0,2024-10-20 00:00:00.000000
+rayo vallecano,valladolid,1,1,2024-10-21 00:00:00.000000
+osasuna,barcelona,0,1,2024-10-22 00:00:00.000000
+osasuna,real madrid,0,0,2024-10-23 00:00:00.000000
+osasuna,atletico madrid,0,2,2024-10-24 00:00:00.000000
+osasuna,real sociedad,0,1,2024-10-25 00:00:00.000000
+osasuna,real betis,3,1,2024-10-26 00:00:00.000000
+osasuna,villarreal,1,1,2024-10-27 00:00:00.000000
+osasuna,athletic bilbao,0,1,2024-10-28 00:00:00.000000
+osasuna,sevilla,0,1,2024-10-29 00:00:00.000000
+osasuna,girona,2,2,2024-10-30 00:00:00.000000
+osasuna,valencia,1,1,2024-10-31 00:00:00.000000
+osasuna,mallorca,0,2,2024-11-01 00:00:00.000000
+osasuna,las palmas,2,1,2024-11-02 00:00:00.000000
+osasuna,getafe,0,0,2024-11-03 00:00:00.000000
+osasuna,rayo vallecano,1,2,2024-11-04 00:00:00.000000
+osasuna,celta vigo,0,1,2024-11-05 00:00:00.000000
+osasuna,alaves,0,0,2024-11-06 00:00:00.000000
+osasuna,leganes,0,1,2024-11-07 00:00:00.000000
+osasuna,espanyol,0,1,2024-11-08 00:00:00.000000
+osasuna,valladolid,2,2,2024-11-09 00:00:00.000000
+celta vigo,barcelona,1,3,2024-11-10 00:00:00.000000
+celta vigo,real madrid,0,0,2024-11-11 00:00:00.000000
+celta vigo,atletico madrid,2,1,2024-11-12 00:00:00.000000
+celta vigo,real sociedad,0,0,2024-11-13 00:00:00.000000
+celta vigo,real betis,3,0,2024-11-14 00:00:00.000000
+celta vigo,villarreal,0,0,2024-11-15 00:00:00.000000
+celta vigo,athletic bilbao,2,0,2024-11-16 00:00:00.000000
+celta vigo,sevilla,0,1,2024-11-17 00:00:00.000000
+celta vigo,girona,0,1,2024-11-18 00:00:00.000000
+celta vigo,valencia,2,0,2024-11-19 00:00:00.000000
+celta vigo,mallorca,2,1,2024-11-20 00:00:00.000000
+celta vigo,las palmas,2,2,2024-11-21 00:00:00.000000
+celta vigo,getafe,2,2,2024-11-22 00:00:00.000000
+celta vigo,rayo vallecano,1,2,2024-11-23 00:00:00.000000
+celta vigo,osasuna,3,1,2024-11-24 00:00:00.000000
+celta vigo,alaves,3,0,2024-11-25 00:00:00.000000
+celta vigo,leganes,0,0,2024-11-26 00:00:00.000000
+celta vigo,espanyol,2,0,2024-11-27 00:00:00.000000
+celta vigo,valladolid,0,0,2024-11-28 00:00:00.000000
+alaves,barcelona,0,2,2024-11-29 00:00:00.000000
+alaves,real madrid,0,0,2024-11-30 00:00:00.000000
+alaves,atletico madrid,1,1,2024-12-01 00:00:00.000000
+alaves,real sociedad,0,1,2024-12-02 00:00:00.000000
+alaves,real betis,1,1,2024-12-03 00:00:00.000000
+alaves,villarreal,0,0,2024-12-04 00:00:00.000000
+alaves,athletic bilbao,1,0,2024-12-05 00:00:00.000000
+alaves,sevilla,0,0,2024-12-06 00:00:00.000000
+alaves,girona,0,0,2024-12-07 00:00:00.000000
+alaves,valencia,0,0,2024-12-08 00:00:00.000000
+alaves,mallorca,2,2,2024-12-09 00:00:00.000000
+alaves,las palmas,0,0,2024-12-10 00:00:00.000000
+alaves,getafe,0,1,2024-12-11 00:00:00.000000
+alaves,rayo vallecano,0,0,2024-12-12 00:00:00.000000
+alaves,osasuna,0,0,2024-12-13 00:00:00.000000
+alaves,celta vigo,0,1,2024-12-14 00:00:00.000000
+alaves,leganes,1,2,2024-12-15 00:00:00.000000
+alaves,espanyol,1,1,2024-12-16 00:00:00.000000
+alaves,valladolid,0,0,2024-12-17 00:00:00.000000
+leganes,barcelona,1,0,2024-12-18 00:00:00.000000
+leganes,real madrid,2,0,2024-12-19 00:00:00.000000
+leganes,atletico madrid,1,1,2024-12-20 00:00:00.000000
+leganes,real sociedad,0,1,2024-12-21 00:00:00.000000
+leganes,real betis,1,0,2024-12-22 00:00:00.000000
+leganes,villarreal,0,1,2024-12-23 00:00:00.000000
+leganes,athletic bilbao,2,0,2024-12-24 00:00:00.000000
+leganes,sevilla,1,2,2024-12-25 00:00:00.000000
+leganes,girona,2,0,2024-12-26 00:00:00.000000
+leganes,valencia,0,0,2024-12-27 00:00:00.000000
+leganes,mallorca,1,1,2024-12-28 00:00:00.000000
+leganes,las palmas,2,0,2024-12-29 00:00:00.000000
+leganes,getafe,0,0,2024-12-30 00:00:00.000000
+leganes,rayo vallecano,1,2,2024-12-31 00:00:00.000000
+leganes,osasuna,2,0,2025-01-01 00:00:00.000000
+leganes,celta vigo,1,1,2025-01-02 00:00:00.000000
+leganes,alaves,0,1,2025-01-03 00:00:00.000000
+leganes,espanyol,1,3,2025-01-04 00:00:00.000000
+leganes,valladolid,1,3,2025-01-05 00:00:00.000000
+espanyol,barcelona,3,0,2025-01-06 00:00:00.000000
+espanyol,real madrid,0,2,2025-01-07 00:00:00.000000
+espanyol,atletico madrid,0,2,2025-01-08 00:00:00.000000
+espanyol,real sociedad,0,2,2025-01-09 00:00:00.000000
+espanyol,real betis,1,2,2025-01-10 00:00:00.000000
+espanyol,villarreal,0,0,2025-01-11 00:00:00.000000
+espanyol,athletic bilbao,1,1,2025-01-12 00:00:00.000000
+espanyol,sevilla,2,1,2025-01-13 00:00:00.000000
+espanyol,girona,3,1,2025-01-14 00:00:00.000000
+espanyol,valencia,1,0,2025-01-15 00:00:00.000000
+espanyol,mallorca,2,1,2025-01-16 00:00:00.000000
+espanyol,las palmas,0,0,2025-01-17 00:00:00.000000
+espanyol,getafe,0,1,2025-01-18 00:00:00.000000
+espanyol,rayo vallecano,1,1,2025-01-19 00:00:00.000000
+espanyol,osasuna,1,0,2025-01-20 00:00:00.000000
+espanyol,celta vigo,1,1,2025-01-21 00:00:00.000000
+espanyol,alaves,1,2,2025-01-22 00:00:00.000000
+espanyol,leganes,0,0,2025-01-23 00:00:00.000000
+espanyol,valladolid,0,0,2025-01-24 00:00:00.000000
+valladolid,barcelona,1,1,2025-01-25 00:00:00.000000
+valladolid,real madrid,2,0,2025-01-26 00:00:00.000000
+valladolid,atletico madrid,0,1,2025-01-27 00:00:00.000000
+valladolid,real sociedad,5,0,2025-01-28 00:00:00.000000
+valladolid,real betis,1,1,2025-01-29 00:00:00.000000
+valladolid,villarreal,1,0,2025-01-30 00:00:00.000000
+valladolid,athletic bilbao,3,0,2025-01-31 00:00:00.000000
+valladolid,sevilla,1,1,2025-02-01 00:00:00.000000
+valladolid,girona,1,1,2025-02-02 00:00:00.000000
+valladolid,valencia,0,1,2025-02-03 00:00:00.000000
+valladolid,mallorca,1,1,2025-02-04 00:00:00.000000
+valladolid,las palmas,0,2,2025-02-05 00:00:00.000000
+valladolid,getafe,0,0,2025-02-06 00:00:00.000000
+valladolid,rayo vallecano,1,0,2025-02-07 00:00:00.000000
+valladolid,osasuna,1,0,2025-02-08 00:00:00.000000
+valladolid,celta vigo,1,2,2025-02-09 00:00:00.000000
+valladolid,alaves,1,0,2025-02-10 00:00:00.000000
+valladolid,leganes,1,0,2025-02-11 00:00:00.000000
+valladolid,espanyol,0,2,2025-02-12 00:00:00.000000
+barcelona,real madrid,0,0,2025-02-13 00:00:00.000000
+barcelona,atletico madrid,0,0,2025-02-14 00:00:00.000000
+barcelona,real sociedad,1,2,2025-02-15 00:00:00.000000
+barcelona,real betis,2,1,2025-02-16 00:00:00.000000
+barcelona,villarreal,0,1,2025-02-17 00:00:00.000000
+barcelona,athletic bilbao,0,1,2025-02-18 00:00:00.000000
+barcelona,sevilla,1,0,2025-02-19 00:00:00.000000
+barcelona,girona,1,2,2025-02-20 00:00:00.000000
+barcelona,valencia,2,0,2025-02-21 00:00:00.000000
+barcelona,mallorca,0,0,2025-02-22 00:00:00.000000
+barcelona,las palmas,2,0,2025-02-23 00:00:00.000000
+barcelona,getafe,2,2,2025-02-24 00:00:00.000000
+barcelona,rayo vallecano,2,1,2025-02-25 00:00:00.000000
+barcelona,osasuna,2,0,2025-02-26 00:00:00.000000
+barcelona,celta vigo,0,1,2025-02-27 00:00:00.000000
+barcelona,alaves,1,0,2025-02-28 00:00:00.000000
+barcelona,leganes,1,1,2025-03-01 00:00:00.000000
+barcelona,espanyol,1,1,2025-03-02 00:00:00.000000
+barcelona,valladolid,1,2,2025-03-03 00:00:00.000000
+real madrid,atletico madrid,0,1,2025-03-04 00:00:00.000000
+real madrid,real sociedad,1,0,2025-03-05 00:00:00.000000
+real madrid,real betis,0,0,2025-03-06 00:00:00.000000
+real madrid,villarreal,0,2,2025-03-07 00:00:00.000000
+real madrid,athletic bilbao,1,1,2025-03-08 00:00:00.000000
+real madrid,sevilla,0,0,2025-03-09 00:00:00.000000
+real madrid,girona,0,0,2025-03-10 00:00:00.000000
+real madrid,valencia,1,1,2025-03-11 00:00:00.000000
+real madrid,mallorca,0,0,2025-03-12 00:00:00.000000
+real madrid,las palmas,0,2,2025-03-13 00:00:00.000000
+real madrid,getafe,0,0,2025-03-14 00:00:00.000000
+real madrid,rayo vallecano,3,2,2025-03-15 00:00:00.000000
+real madrid,osasuna,1,0,2025-03-16 00:00:00.000000
+real madrid,celta vigo,0,0,2025-03-17 00:00:00.000000
+real madrid,alaves,1,2,2025-03-18 00:00:00.000000
+real madrid,leganes,0,1,2025-03-19 00:00:00.000000
+real madrid,espanyol,0,0,2025-03-20 00:00:00.000000
+real madrid,valladolid,1,0,2025-03-21 00:00:00.000000
+atletico madrid,real sociedad,0,1,2025-03-22 00:00:00.000000
+atletico madrid,real betis,1,0,2025-03-23 00:00:00.000000
+atletico madrid,villarreal,1,2,2025-03-24 00:00:00.000000
+atletico madrid,athletic bilbao,2,0,2025-03-25 00:00:00.000000
+atletico madrid,sevilla,4,0,2025-03-26 00:00:00.000000
+atletico madrid,girona,0,0,2025-03-27 00:00:00.000000
+atletico madrid,valencia,1,0,2025-03-28 00:00:00.000000
+atletico madrid,mallorca,1,2,2025-03-29 00:00:00.000000
+atletico madrid,las palmas,1,1,2025-03-30 00:00:00.000000
+atletico madrid,getafe,2,1,2025-03-31 00:00:00.000000
+atletico madrid,rayo vallecano,1,0,2025-04-01 00:00:00.000000
+atletico madrid,osasuna,3,0,2025-04-02 00:00:00.000000
+atletico madrid,celta vigo,1,2,2025-04-03 00:00:00.000000
+atletico madrid,alaves,1,0,2025-04-04 00:00:00.000000
+atletico madrid,leganes,3,0,2025-04-05 00:00:00.000000
+atletico madrid,espanyol,1,0,2025-04-06 00:00:00.000000
+atletico madrid,valladolid,0,1,2025-04-07 00:00:00.000000
+real sociedad,real betis,1,1,2025-04-08 00:00:00.000000
+real sociedad,villarreal,1,1,2025-04-09 00:00:00.000000
+real sociedad,athletic bilbao,0,1,2025-04-10 00:00:00.000000
+real sociedad,sevilla,1,1,2025-04-11 00:00:00.000000
+real sociedad,girona,2,0,2025-04-12 00:00:00.000000
+real sociedad,valencia,0,0,2025-04-13 00:00:00.000000
+real sociedad,mallorca,2,0,2025-04-14 00:00:00.000000
+real sociedad,las palmas,0,0,2025-04-15 00:00:00.000000
+real sociedad,getafe,1,2,2025-04-16 00:00:00.000000
+real sociedad,rayo vallecano,0,0,2025-04-17 00:00:00.000000
+real sociedad,osasuna,1,0,2025-04-18 00:00:00.000000
+real sociedad,celta vigo,0,1,2025-04-19 00:00:00.000000
+real sociedad,alaves,1,1,2025-04-20 00:00:00.000000
+real sociedad,leganes,1,0,2025-04-21 00:00:00.000000
+real sociedad,espanyol,1,1,2025-04-22 00:00:00.000000
+real sociedad,valladolid,1,2,2025-04-23 00:00:00.000000
+real betis,villarreal,1,0,2025-04-24 00:00:00.000000
+real betis,athletic bilbao,2,1,2025-04-25 00:00:00.000000
+real betis,sevilla,0,1,2025-04-26 00:00:00.000000
+real betis,girona,1,0,2025-04-27 00:00:00.000000
+real betis,valencia,0,0,2025-04-28 00:00:00.000000
+real betis,mallorca,0,1,2025-04-29 00:00:00.000000
+real betis,las palmas,1,1,2025-04-30 00:00:00.000000
+real betis,getafe,2,0,2025-05-01 00:00:00.000000
+real betis,rayo vallecano,1,0,2025-05-02 00:00:00.000000
+real betis,osasuna,1,1,2025-05-03 00:00:00.000000
+real betis,celta vigo,0,0,2025-05-04 00:00:00.000000
+real betis,alaves,2,1,2025-05-05 00:00:00.000000
+real betis,leganes,0,1,2025-05-06 00:00:00.000000
+real betis,espanyol,1,3,2025-05-07 00:00:00.000000
+real betis,valladolid,1,0,2025-05-08 00:00:00.000000
+villarreal,athletic bilbao,0,0,2025-05-09 00:00:00.000000
+villarreal,sevilla,0,0,2025-05-10 00:00:00.000000
+villarreal,girona,0,0,2025-05-11 00:00:00.000000
+villarreal,valencia,0,1,2025-05-12 00:00:00.000000
+villarreal,mallorca,0,0,2025-05-13 00:00:00.000000
+villarreal,las palmas,0,1,2025-05-14 00:00:00.000000
+villarreal,getafe,1,1,2024-01-01 00:00:00.000000
+villarreal,rayo vallecano,1,0,2024-01-02 00:00:00.000000
+villarreal,osasuna,1,0,2024-01-03 00:00:00.000000
+villarreal,celta vigo,1,1,2024-01-04 00:00:00.000000
+villarreal,alaves,0,1,2024-01-05 00:00:00.000000
+villarreal,leganes,1,2,2024-01-06 00:00:00.000000
+villarreal,espanyol,0,1,2024-01-07 00:00:00.000000
+villarreal,valladolid,1,0,2024-01-08 00:00:00.000000
+athletic bilbao,sevilla,1,0,2024-01-09 00:00:00.000000
+athletic bilbao,girona,1,1,2024-01-10 00:00:00.000000
+athletic bilbao,valencia,0,0,2024-01-11 00:00:00.000000
+athletic bilbao,mallorca,0,0,2024-01-12 00:00:00.000000
+athletic bilbao,las palmas,0,0,2024-01-13 00:00:00.000000
+athletic bilbao,getafe,1,0,2024-01-14 00:00:00.000000
+athletic bilbao,rayo vallecano,0,0,2024-01-15 00:00:00.000000
+athletic bilbao,osasuna,0,0,2024-01-16 00:00:00.000000
+athletic bilbao,celta vigo,2,0,2024-01-17 00:00:00.000000
+athletic bilbao,alaves,0,0,2024-01-18 00:00:00.000000
+athletic bilbao,leganes,1,0,2024-01-19 00:00:00.000000
+athletic bilbao,espanyol,1,0,2024-01-20 00:00:00.000000
+athletic bilbao,valladolid,2,0,2024-01-21 00:00:00.000000
+sevilla,girona,0,1,2024-01-22 00:00:00.000000
+sevilla,valencia,1,1,2024-01-23 00:00:00.000000
+sevilla,mallorca,2,1,2024-01-24 00:00:00.000000
+sevilla,las palmas,1,1,2024-01-25 00:00:00.000000
+sevilla,getafe,1,0,2024-01-26 00:00:00.000000
+sevilla,rayo vallecano,0,0,2024-01-27 00:00:00.000000
+sevilla,osasuna,2,0,2024-01-28 00:00:00.000000
+sevilla,celta vigo,1,1,2024-01-29 00:00:00.000000
+sevilla,alaves,0,1,2024-01-30 00:00:00.000000
+sevilla,leganes,1,0,2024-01-31 00:00:00.000000
+sevilla,espanyol,1,1,2024-02-01 00:00:00.000000
+sevilla,valladolid,0,1,2024-02-02 00:00:00.000000
+girona,valencia,1,0,2024-02-03 00:00:00.000000
+girona,mallorca,1,0,2024-02-04 00:00:00.000000
+girona,las palmas,0,1,2024-02-05 00:00:00.000000
+girona,getafe,1,0,2024-02-06 00:00:00.000000
+girona,rayo vallecano,1,1,2024-02-07 00:00:00.000000
+girona,osasuna,1,0,2024-02-08 00:00:00.000000
+girona,celta vigo,1,1,2024-02-09 00:00:00.000000
+girona,alaves,4,0,2024-02-10 00:00:00.000000
+girona,leganes,1,0,2024-02-11 00:00:00.000000
+girona,espanyol,0,1,2024-02-12 00:00:00.000000
+girona,valladolid,1,0,2024-02-13 00:00:00.000000
+valencia,mallorca,0,1,2024-02-14 00:00:00.000000
+valencia,las palmas,1,2,2024-02-15 00:00:00.000000
+valencia,getafe,0,0,2024-02-16 00:00:00.000000
+valencia,rayo vallecano,1,0,2024-02-17 00:00:00.000000
+valencia,osasuna,0,0,2024-02-18 00:00:00.000000
+valencia,celta vigo,0,1,2024-02-19 00:00:00.000000
+valencia,alaves,1,0,2024-02-20 00:00:00.000000
+valencia,leganes,1,1,2024-02-21 00:00:00.000000
+valencia,espanyol,0,1,2024-02-22 00:00:00.000000
+valencia,valladolid,0,1,2024-02-23 00:00:00.000000
+mallorca,las palmas,1,1,2024-02-24 00:00:00.000000
+mallorca,getafe,1,1,2024-02-25 00:00:00.000000
+mallorca,rayo vallecano,0,0,2024-02-26 00:00:00.000000
+mallorca,osasuna,2,0,2024-02-27 00:00:00.000000
+mallorca,celta vigo,0,1,2024-02-28 00:00:00.000000
+mallorca,alaves,0,1,2024-02-29 00:00:00.000000
+mallorca,leganes,2,1,2024-03-01 00:00:00.000000
+mallorca,espanyol,1,0,2024-03-02 00:00:00.000000
+mallorca,valladolid,1,0,2024-03-03 00:00:00.000000
+las palmas,getafe,0,0,2024-03-04 00:00:00.000000
+las palmas,rayo vallecano,2,3,2024-03-05 00:00:00.000000
+las palmas,osasuna,1,0,2024-03-06 00:00:00.000000
+las palmas,celta vigo,0,3,2024-03-07 00:00:00.000000
+las palmas,alaves,1,0,2024-03-08 00:00:00.000000
+las palmas,leganes,1,1,2024-03-09 00:00:00.000000
+las palmas,espanyol,1,2,2024-03-10 00:00:00.000000
+las palmas,valladolid,0,0,2024-03-11 00:00:00.000000
+getafe,rayo vallecano,1,2,2024-03-12 00:00:00.000000
+getafe,osasuna,1,0,2024-03-13 00:00:00.000000
+getafe,celta vigo,1,1,2024-03-14 00:00:00.000000
+getafe,alaves,0,0,2024-03-15 00:00:00.000000
+getafe,leganes,1,0,2024-03-16 00:00:00.000000
+getafe,espanyol,1,4,2024-03-17 00:00:00.000000
+getafe,valladolid,1,0,2024-03-18 00:00:00.000000
+rayo vallecano,osasuna,2,0,2024-03-19 00:00:00.000000
+rayo vallecano,celta vigo,0,1,2024-03-20 00:00:00.000000
+rayo vallecano,alaves,2,1,2024-03-21 00:00:00.000000
+rayo vallecano,leganes,2,0,2024-03-22 00:00:00.000000
+rayo vallecano,espanyol,0,0,2024-03-23 00:00:00.000000
+rayo vallecano,valladolid,1,2,2024-03-24 00:00:00.000000
+osasuna,celta vigo,2,2,2024-03-25 00:00:00.000000
+osasuna,alaves,0,1,2024-03-26 00:00:00.000000
+osasuna,leganes,2,1,2024-03-27 00:00:00.000000
+osasuna,espanyol,0,2,2024-03-28 00:00:00.000000
+osasuna,valladolid,1,1,2024-03-29 00:00:00.000000
+celta vigo,alaves,3,1,2024-03-30 00:00:00.000000
+celta vigo,leganes,1,0,2024-03-31 00:00:00.000000
+celta vigo,espanyol,2,0,2024-04-01 00:00:00.000000
+celta vigo,valladolid,0,0,2024-04-02 00:00:00.000000
+alaves,leganes,2,2,2024-04-03 00:00:00.000000
+alaves,espanyol,0,0,2024-04-04 00:00:00.000000
+alaves,valladolid,0,1,2024-04-05 00:00:00.000000
+leganes,espanyol,2,0,2024-04-06 00:00:00.000000
+leganes,valladolid,4,2,2024-04-07 00:00:00.000000
+espanyol,valladolid,1,0,2024-04-08 00:00:00.000000
+necaxa f,opponent_a,1,2,2025-11-02 22:40:34.533689
+opponent_b,necaxa f,3,3,2025-11-12 22:40:34.533689
+necaxa f,opponent_c,1,0,2025-11-22 22:40:34.533689
+opponent_d,necaxa f,1,1,2025-12-02 22:40:34.533689
+necaxa f,opponent_e,2,0,2025-12-12 22:40:34.533689
+opponent_a,necaxa f,2,2,2025-12-22 22:40:34.533689
+necaxa f,opponent_b,1,4,2026-01-01 22:40:34.533689
+opponent_c,necaxa f,1,2,2026-01-11 22:40:34.533689
+necaxa f,opponent_d,1,0,2026-01-21 22:40:34.533689
+opponent_e,necaxa f,1,1,2026-01-31 22:40:34.533689
+s. laguna f,opponent_a,3,0,2025-11-02 22:40:34.544273
+opponent_b,s. laguna f,1,0,2025-11-12 22:40:34.544273
+s. laguna f,opponent_c,3,0,2025-11-22 22:40:34.544273
+opponent_d,s. laguna f,4,3,2025-12-02 22:40:34.544273
+s. laguna f,opponent_e,2,0,2025-12-12 22:40:34.544273
+opponent_a,s. laguna f,0,3,2025-12-22 22:40:34.544273
+s. laguna f,opponent_b,1,1,2026-01-01 22:40:34.544273
+opponent_c,s. laguna f,0,2,2026-01-11 22:40:34.544273
+s. laguna f,opponent_d,2,0,2026-01-21 22:40:34.544273
+opponent_e,s. laguna f,2,1,2026-01-31 22:40:34.544273
+juarez f,opponent_a,0,1,2025-11-02 22:40:34.549722
+opponent_b,juarez f,2,0,2025-11-12 22:40:34.549722
+juarez f,opponent_c,1,0,2025-11-22 22:40:34.549722
+opponent_d,juarez f,1,1,2025-12-02 22:40:34.549722
+juarez f,opponent_e,3,0,2025-12-12 22:40:34.549722
+opponent_a,juarez f,1,0,2025-12-22 22:40:34.549722
+juarez f,opponent_b,5,0,2026-01-01 22:40:34.549722
+opponent_c,juarez f,3,1,2026-01-11 22:40:34.549722
+juarez f,opponent_d,0,1,2026-01-21 22:40:34.549722
+opponent_e,juarez f,2,0,2026-01-31 22:40:34.549722
+pumas f,opponent_a,2,0,2025-11-02 22:40:34.555985
+opponent_b,pumas f,1,3,2025-11-12 22:40:34.555985
+pumas f,opponent_c,3,1,2025-11-22 22:40:34.555985
+opponent_d,pumas f,2,0,2025-12-02 22:40:34.555985
+pumas f,opponent_e,2,1,2025-12-12 22:40:34.555985
+opponent_a,pumas f,0,0,2025-12-22 22:40:34.555985
+pumas f,opponent_b,4,2,2026-01-01 22:40:34.555985
+opponent_c,pumas f,0,0,2026-01-11 22:40:34.555985
+pumas f,opponent_d,1,1,2026-01-21 22:40:34.555985
+opponent_e,pumas f,1,2,2026-01-31 22:40:34.555985
+tijuana f,opponent_a,2,1,2025-11-02 22:40:34.562780
+opponent_b,tijuana f,0,1,2025-11-12 22:40:34.562780
+tijuana f,opponent_c,1,1,2025-11-22 22:40:34.562780
+opponent_d,tijuana f,1,1,2025-12-02 22:40:34.562780
+tijuana f,opponent_e,1,1,2025-12-12 22:40:34.562780
+opponent_a,tijuana f,2,2,2025-12-22 22:40:34.562780
+tijuana f,opponent_b,2,1,2026-01-01 22:40:34.562780
+opponent_c,tijuana f,0,0,2026-01-11 22:40:34.562780
+tijuana f,opponent_d,1,2,2026-01-21 22:40:34.562780
+opponent_e,tijuana f,1,2,2026-01-31 22:40:34.562780
+cruz azul f,opponent_a,0,1,2025-11-02 22:40:34.568453
+opponent_b,cruz azul f,1,0,2025-11-12 22:40:34.568453
+cruz azul f,opponent_c,3,1,2025-11-22 22:40:34.568453
+opponent_d,cruz azul f,3,1,2025-12-02 22:40:34.568453
+cruz azul f,opponent_e,1,1,2025-12-12 22:40:34.568453
+opponent_a,cruz azul f,0,0,2025-12-22 22:40:34.568453
+cruz azul f,opponent_b,3,2,2026-01-01 22:40:34.568453
+opponent_c,cruz azul f,1,0,2026-01-11 22:40:34.568453
+cruz azul f,opponent_d,1,0,2026-01-21 22:40:34.568453
+opponent_e,cruz azul f,1,1,2026-01-31 22:40:34.568453
+aguilas f,opponent_a,3,2,2025-11-02 22:40:34.575223
+opponent_b,aguilas f,0,2,2025-11-12 22:40:34.575223
+aguilas f,opponent_c,1,0,2025-11-22 22:40:34.575223
+opponent_d,aguilas f,1,0,2025-12-02 22:40:34.575223
+aguilas f,opponent_e,2,1,2025-12-12 22:40:34.575223
+opponent_a,aguilas f,3,0,2025-12-22 22:40:34.575223
+aguilas f,opponent_b,0,1,2026-01-01 22:40:34.575223
+opponent_c,aguilas f,2,0,2026-01-11 22:40:34.575223
+aguilas f,opponent_d,1,2,2026-01-21 22:40:34.575223
+opponent_e,aguilas f,3,1,2026-01-31 22:40:34.575223
+monterrey f,opponent_a,2,2,2025-11-02 22:40:34.662355
+opponent_b,monterrey f,1,1,2025-11-12 22:40:34.662355
+monterrey f,opponent_c,1,5,2025-11-22 22:40:34.662355
+opponent_d,monterrey f,0,0,2025-12-02 22:40:34.662355
+monterrey f,opponent_e,2,1,2025-12-12 22:40:34.662355
+opponent_a,monterrey f,3,0,2025-12-22 22:40:34.662355
+monterrey f,opponent_b,2,0,2026-01-01 22:40:34.662355
+opponent_c,monterrey f,0,2,2026-01-11 22:40:34.662355
+monterrey f,opponent_d,2,1,2026-01-21 22:40:34.662355
+opponent_e,monterrey f,0,2,2026-01-31 22:40:34.662355
+levante,opponent_a,1,1,2025-11-02 22:40:34.672591
+opponent_b,levante,0,0,2025-11-12 22:40:34.672591
+levante,opponent_c,0,3,2025-11-22 22:40:34.672591
+opponent_d,levante,4,0,2025-12-02 22:40:34.672591
+levante,opponent_e,1,0,2025-12-12 22:40:34.672591
+opponent_a,levante,3,1,2025-12-22 22:40:34.672591
+levante,opponent_b,0,1,2026-01-01 22:40:34.672591
+opponent_c,levante,1,2,2026-01-11 22:40:34.672591
+levante,opponent_d,0,0,2026-01-21 22:40:34.672591
+opponent_e,levante,1,4,2026-01-31 22:40:34.672591
+lazio,opponent_a,3,0,2025-11-02 22:40:34.680690
+opponent_b,lazio,1,2,2025-11-12 22:40:34.680690
+lazio,opponent_c,1,4,2025-11-22 22:40:34.680690
+opponent_d,lazio,2,0,2025-12-02 22:40:34.680690
+lazio,opponent_e,0,0,2025-12-12 22:40:34.680690
+opponent_a,lazio,0,0,2025-12-22 22:40:34.680690
+lazio,opponent_b,1,1,2026-01-01 22:40:34.680690
+opponent_c,lazio,0,1,2026-01-11 22:40:34.680690
+lazio,opponent_d,0,1,2026-01-21 22:40:34.680690
+opponent_e,lazio,1,4,2026-01-31 22:40:34.680690
+atalanta,opponent_a,0,1,2025-11-02 22:40:34.701743
+opponent_b,atalanta,0,0,2025-11-12 22:40:34.701743
+atalanta,opponent_c,2,1,2025-11-22 22:40:34.701743
+opponent_d,atalanta,1,1,2025-12-02 22:40:34.701743
+atalanta,opponent_e,1,0,2025-12-12 22:40:34.701743
+opponent_a,atalanta,2,4,2025-12-22 22:40:34.701743
+atalanta,opponent_b,3,3,2026-01-01 22:40:34.701743
+opponent_c,atalanta,4,1,2026-01-11 22:40:34.701743
+atalanta,opponent_d,1,0,2026-01-21 22:40:34.701743
+opponent_e,atalanta,1,2,2026-01-31 22:40:34.701743
+cremonese,opponent_a,0,3,2025-11-02 22:40:34.707201
+opponent_b,cremonese,1,0,2025-11-12 22:40:34.707201
+cremonese,opponent_c,1,0,2025-11-22 22:40:34.707201
+opponent_d,cremonese,1,2,2025-12-02 22:40:34.707201
+cremonese,opponent_e,0,3,2025-12-12 22:40:34.707201
+opponent_a,cremonese,0,4,2025-12-22 22:40:34.707201
+cremonese,opponent_b,1,1,2026-01-01 22:40:34.707201
+opponent_c,cremonese,0,0,2026-01-11 22:40:34.707201
+cremonese,opponent_d,0,3,2026-01-21 22:40:34.707201
+opponent_e,cremonese,0,2,2026-01-31 22:40:34.707201
+genova,opponent_a,0,2,2025-11-02 22:40:34.714483
+opponent_b,genova,2,3,2025-11-12 22:40:34.714483
+genova,opponent_c,1,0,2025-11-22 22:40:34.714483
+opponent_d,genova,2,2,2025-12-02 22:40:34.714483
+genova,opponent_e,2,0,2025-12-12 22:40:34.714483
+opponent_a,genova,2,3,2025-12-22 22:40:34.714483
+genova,opponent_b,0,2,2026-01-01 22:40:34.714483
+opponent_c,genova,1,0,2026-01-11 22:40:34.714483
+genova,opponent_d,2,0,2026-01-21 22:40:34.714483
+opponent_e,genova,2,2,2026-01-31 22:40:34.714483
+torino,opponent_a,0,1,2025-11-02 22:40:34.721835
+opponent_b,torino,2,3,2025-11-12 22:40:34.721835
+torino,opponent_c,2,1,2025-11-22 22:40:34.721835
+opponent_d,torino,1,2,2025-12-02 22:40:34.721835
+torino,opponent_e,0,1,2025-12-12 22:40:34.721835
+opponent_a,torino,1,1,2025-12-22 22:40:34.721835
+torino,opponent_b,0,2,2026-01-01 22:40:34.721835
+opponent_c,torino,0,3,2026-01-11 22:40:34.721835
+torino,opponent_d,0,1,2026-01-21 22:40:34.721835
+opponent_e,torino,1,5,2026-01-31 22:40:34.721835
+bologna,opponent_a,1,0,2025-11-02 22:40:34.729201
+opponent_b,bologna,2,1,2025-11-12 22:40:34.729201
+bologna,opponent_c,0,2,2025-11-22 22:40:34.729201
+opponent_d,bologna,0,1,2025-12-02 22:40:34.729201
+bologna,opponent_e,2,1,2025-12-12 22:40:34.729201
+opponent_a,bologna,2,0,2025-12-22 22:40:34.729201
+bologna,opponent_b,0,0,2026-01-01 22:40:34.729201
+opponent_c,bologna,1,0,2026-01-11 22:40:34.729201
+bologna,opponent_d,3,2,2026-01-21 22:40:34.729201
+opponent_e,bologna,2,1,2026-01-31 22:40:34.729201
+metz,opponent_a,2,2,2025-11-02 22:40:34.735878
+opponent_b,metz,1,1,2025-11-12 22:40:34.735878
+metz,opponent_c,4,0,2025-11-22 22:40:34.735878
+opponent_d,metz,0,0,2025-12-02 22:40:34.735878
+metz,opponent_e,1,0,2025-12-12 22:40:34.735878
+opponent_a,metz,1,1,2025-12-22 22:40:34.735878
+metz,opponent_b,1,1,2026-01-01 22:40:34.735878
+opponent_c,metz,2,1,2026-01-11 22:40:34.735878
+metz,opponent_d,0,0,2026-01-21 22:40:34.735878
+opponent_e,metz,4,2,2026-01-31 22:40:34.735878
+auxerre,opponent_a,2,1,2025-11-02 22:40:34.742509
+opponent_b,auxerre,0,0,2025-11-12 22:40:34.742509
+auxerre,opponent_c,1,0,2025-11-22 22:40:34.742509
+opponent_d,auxerre,0,1,2025-12-02 22:40:34.742509
+auxerre,opponent_e,0,2,2025-12-12 22:40:34.742509
+opponent_a,auxerre,2,0,2025-12-22 22:40:34.742509
+auxerre,opponent_b,1,0,2026-01-01 22:40:34.742509
+opponent_c,auxerre,3,2,2026-01-11 22:40:34.742509
+auxerre,opponent_d,1,2,2026-01-21 22:40:34.742509
+opponent_e,auxerre,1,0,2026-01-31 22:40:34.742509
+sparta,opponent_a,0,1,2025-11-02 22:40:34.749615
+opponent_b,sparta,1,0,2025-11-12 22:40:34.749615
+sparta,opponent_c,0,2,2025-11-22 22:40:34.749615
+opponent_d,sparta,1,1,2025-12-02 22:40:34.749615
+sparta,opponent_e,1,1,2025-12-12 22:40:34.749615
+opponent_a,sparta,2,1,2025-12-22 22:40:34.749615
+sparta,opponent_b,2,4,2026-01-01 22:40:34.749615
+opponent_c,sparta,2,1,2026-01-11 22:40:34.749615
+sparta,opponent_d,1,1,2026-01-21 22:40:34.749615
+opponent_e,sparta,2,1,2026-01-31 22:40:34.749615
+nijmegen,opponent_a,4,2,2025-11-02 22:40:34.755825
+opponent_b,nijmegen,2,2,2025-11-12 22:40:34.755825
+nijmegen,opponent_c,3,1,2025-11-22 22:40:34.755825
+opponent_d,nijmegen,0,4,2025-12-02 22:40:34.755825
+nijmegen,opponent_e,0,0,2025-12-12 22:40:34.755825
+opponent_a,nijmegen,2,1,2025-12-22 22:40:34.755825
+nijmegen,opponent_b,1,0,2026-01-01 22:40:34.755825
+opponent_c,nijmegen,1,2,2026-01-11 22:40:34.755825
+nijmegen,opponent_d,4,1,2026-01-21 22:40:34.755825
+opponent_e,nijmegen,2,1,2026-01-31 22:40:34.755825
+charleroi,opponent_a,0,1,2025-11-02 22:40:34.764192
+opponent_b,charleroi,2,2,2025-11-12 22:40:34.764192
+charleroi,opponent_c,1,0,2025-11-22 22:40:34.764192
+opponent_d,charleroi,1,1,2025-12-02 22:40:34.764192
+charleroi,opponent_e,1,1,2025-12-12 22:40:34.764192
+opponent_a,charleroi,1,2,2025-12-22 22:40:34.764192
+charleroi,opponent_b,3,1,2026-01-01 22:40:34.764192
+opponent_c,charleroi,1,1,2026-01-11 22:40:34.764192
+charleroi,opponent_d,2,1,2026-01-21 22:40:34.764192
+opponent_e,charleroi,0,0,2026-01-31 22:40:34.764192
+gent,opponent_a,1,0,2025-11-02 22:40:34.768988
+opponent_b,gent,1,2,2025-11-12 22:40:34.768988
+gent,opponent_c,2,1,2025-11-22 22:40:34.768988
+opponent_d,gent,0,0,2025-12-02 22:40:34.768988
+gent,opponent_e,2,2,2025-12-12 22:40:34.768988
+opponent_a,gent,2,3,2025-12-22 22:40:34.768988
+gent,opponent_b,0,4,2026-01-01 22:40:34.768988
+opponent_c,gent,0,2,2026-01-11 22:40:34.768988
+gent,opponent_d,0,0,2026-01-21 22:40:34.768988
+opponent_e,gent,0,1,2026-01-31 22:40:34.768988
+gimnasia lp,opponent_a,0,1,2025-11-02 22:40:34.775860
+opponent_b,gimnasia lp,1,2,2025-11-12 22:40:34.775860
+gimnasia lp,opponent_c,0,2,2025-11-22 22:40:34.775860
+opponent_d,gimnasia lp,3,0,2025-12-02 22:40:34.775860
+gimnasia lp,opponent_e,2,0,2025-12-12 22:40:34.775860
+opponent_a,gimnasia lp,2,1,2025-12-22 22:40:34.775860
+gimnasia lp,opponent_b,3,1,2026-01-01 22:40:34.775860
+opponent_c,gimnasia lp,0,2,2026-01-11 22:40:34.775860
+gimnasia lp,opponent_d,0,0,2026-01-21 22:40:34.775860
+opponent_e,gimnasia lp,2,1,2026-01-31 22:40:34.775860
+estudiantes,opponent_a,3,3,2025-11-02 22:40:34.782184
+opponent_b,estudiantes,1,0,2025-11-12 22:40:34.782184
+estudiantes,opponent_c,1,1,2025-11-22 22:40:34.782184
+opponent_d,estudiantes,2,2,2025-12-02 22:40:34.782184
+estudiantes,opponent_e,1,2,2025-12-12 22:40:34.782184
+opponent_a,estudiantes,0,2,2025-12-22 22:40:34.782184
+estudiantes,opponent_b,1,1,2026-01-01 22:40:34.782184
+opponent_c,estudiantes,1,2,2026-01-11 22:40:34.782184
+estudiantes,opponent_d,4,4,2026-01-21 22:40:34.782184
+opponent_e,estudiantes,0,1,2026-01-31 22:40:34.782184
+inter,opponent_a,2,0,2025-11-02 22:40:34.787991
+opponent_b,inter,0,1,2025-11-12 22:40:34.787991
+inter,opponent_c,0,1,2025-11-22 22:40:34.787991
+opponent_d,inter,1,2,2025-12-02 22:40:34.787991
+inter,opponent_e,1,3,2025-12-12 22:40:34.787991
+opponent_a,inter,1,0,2025-12-22 22:40:34.787991
+inter,opponent_b,1,1,2026-01-01 22:40:34.787991
+opponent_c,inter,2,2,2026-01-11 22:40:34.787991
+inter,opponent_d,2,1,2026-01-21 22:40:34.787991
+opponent_e,inter,3,0,2026-01-31 22:40:34.787991
+juventus,opponent_a,1,0,2025-11-02 22:40:34.797405
+opponent_b,juventus,2,1,2025-11-12 22:40:34.797405
+juventus,opponent_c,1,1,2025-11-22 22:40:34.797405
+opponent_d,juventus,1,0,2025-12-02 22:40:34.797405
+juventus,opponent_e,2,1,2025-12-12 22:40:34.797405
+opponent_a,juventus,2,1,2025-12-22 22:40:34.797405
+juventus,opponent_b,4,0,2026-01-01 22:40:34.797405
+opponent_c,juventus,1,0,2026-01-11 22:40:34.797405
+juventus,opponent_d,2,1,2026-01-21 22:40:34.797405
+opponent_e,juventus,1,2,2026-01-31 22:40:34.797405

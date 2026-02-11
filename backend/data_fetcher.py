@@ -278,13 +278,16 @@ def build_training_dataset(fixtures: list = None,
     
     all_data = []
     
-    # 1. Fetch from FBref
-    for league in leagues:
-        df = fetch_fbref_data(league)
-        if not df.empty:
-            all_data.append(df)
+    # 1. Fetch from FBref (skip on Render — their IP is blocked by FBref/403)
+    if os.environ.get("RENDER"):
+        print("[DataFetcher] Running on Render — skipping FBref (blocked). Using synthetic dataset.")
+    else:
+        for league in leagues:
+            df = fetch_fbref_data(league)
+            if not df.empty:
+                all_data.append(df)
     
-    # 1b. If FBref returned no data at all, use the full synthetic dataset
+    # 1b. If FBref returned no data (or skipped), use the full synthetic dataset
     #     as a rich baseline with proper cross-team matchups
     if not all_data:
         print("[DataFetcher] No FBref data. Loading synthetic base dataset...")

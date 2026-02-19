@@ -1,0 +1,596 @@
+{
+  "progol": [
+    {
+      "match_num": 1,
+      "home": "Cruz Azul",
+      "away": "Guadalajara",
+      "league": "Liga MX",
+      "home_win": 0.4524,
+      "draw": 0.2943,
+      "away_win": 0.2534,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1389
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1178
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1046
+        }
+      ],
+      "confidence": 0.4524
+    },
+    {
+      "match_num": 2,
+      "home": "Pumas",
+      "away": "Monterrey",
+      "league": "Liga MX",
+      "home_win": 0.3393,
+      "draw": 0.2978,
+      "away_win": 0.3629,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1416
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.0992
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.0966
+        }
+      ],
+      "confidence": 0.3629
+    },
+    {
+      "match_num": 3,
+      "home": "Guadalajara F",
+      "away": "Águilas F",
+      "league": "Liga MX Femenil",
+      "home_win": 0.4215,
+      "draw": 0.2649,
+      "away_win": 0.3136,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.124
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 1,
+          "probability": 0.0903
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 2,
+          "probability": 0.0765
+        }
+      ],
+      "confidence": 0.4215
+    },
+    {
+      "match_num": 4,
+      "home": "Necaxa F",
+      "away": "Querétaro F",
+      "league": "Liga MX Femenil",
+      "home_win": 0.6139,
+      "draw": 0.2777,
+      "away_win": 0.1084,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1994
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 0,
+          "probability": 0.1548
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1497
+        }
+      ],
+      "confidence": 0.6139
+    },
+    {
+      "match_num": 5,
+      "home": "Getafe",
+      "away": "Sevilla",
+      "league": "La Liga",
+      "home_win": 0.3407,
+      "draw": 0.3753,
+      "away_win": 0.284,
+      "pick": "E",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.2122
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1591
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1408
+        }
+      ],
+      "confidence": 0.3753
+    },
+    {
+      "match_num": 6,
+      "home": "West Ham",
+      "away": "Bournemouth",
+      "league": "Premier League",
+      "home_win": 0.2107,
+      "draw": 0.3371,
+      "away_win": 0.4522,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1723
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.1714
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1378
+        }
+      ],
+      "confidence": 0.4522
+    },
+    {
+      "match_num": 7,
+      "home": "Leipzig",
+      "away": "Dortmund",
+      "league": "Bundesliga",
+      "home_win": 0.3999,
+      "draw": 0.318,
+      "away_win": 0.2821,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1454
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1299
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1273
+        }
+      ],
+      "confidence": 0.3999
+    },
+    {
+      "match_num": 8,
+      "home": "St. Pauli",
+      "away": "Werder Bremen",
+      "league": "Bundesliga",
+      "home_win": 0.203,
+      "draw": 0.2678,
+      "away_win": 0.5292,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1276
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.1148
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 2,
+          "probability": 0.1028
+        }
+      ],
+      "confidence": 0.5292
+    },
+    {
+      "match_num": 9,
+      "home": "Génova",
+      "away": "Torino",
+      "league": "Serie A",
+      "home_win": 0.4882,
+      "draw": 0.2589,
+      "away_win": 0.2529,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1222
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 1,
+          "probability": 0.0959
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.0844
+        }
+      ],
+      "confidence": 0.4882
+    },
+    {
+      "match_num": 10,
+      "home": "Estoril",
+      "away": "Gil Vicente",
+      "league": "Liga Portugal",
+      "home_win": 0.5784,
+      "draw": 0.2741,
+      "away_win": 0.1475,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1587
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 0,
+          "probability": 0.1314
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1226
+        }
+      ],
+      "confidence": 0.5784
+    },
+    {
+      "match_num": 11,
+      "home": "Westerlo",
+      "away": "Charleroi",
+      "league": "Belgian Pro League",
+      "home_win": 0.463,
+      "draw": 0.3499,
+      "away_win": 0.1871,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1985
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1925
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1308
+        }
+      ],
+      "confidence": 0.463
+    },
+    {
+      "match_num": 12,
+      "home": "Vélez",
+      "away": "River Plate",
+      "league": "Liga Argentina",
+      "home_win": 0.3252,
+      "draw": 0.2803,
+      "away_win": 0.3946,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1336
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 2,
+          "probability": 0.0869
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.085
+        }
+      ],
+      "confidence": 0.3946
+    },
+    {
+      "match_num": 13,
+      "home": "Houston",
+      "away": "Chicago",
+      "league": "MLS",
+      "home_win": 0.4848,
+      "draw": 0.3101,
+      "away_win": 0.2051,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.154
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.138
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1372
+        }
+      ],
+      "confidence": 0.4848
+    },
+    {
+      "match_num": 14,
+      "home": "Saprissa",
+      "away": "Alajuelense",
+      "league": "Costa Rica",
+      "home_win": 0.3977,
+      "draw": 0.3323,
+      "away_win": 0.2701,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1512
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1455
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1417
+        }
+      ],
+      "confidence": 0.3977
+    }
+  ],
+  "revancha": [
+    {
+      "match_num": 15,
+      "home": "Puebla",
+      "away": "Águilas",
+      "league": "Liga MX",
+      "home_win": 0.3511,
+      "draw": 0.2612,
+      "away_win": 0.3877,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1206
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 2,
+          "probability": 0.0862
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 1,
+          "probability": 0.0816
+        }
+      ],
+      "confidence": 0.3877
+    },
+    {
+      "match_num": 16,
+      "home": "Atlas",
+      "away": "San Luis",
+      "league": "Liga MX",
+      "home_win": 0.4567,
+      "draw": 0.3323,
+      "away_win": 0.211,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1679
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1656
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1382
+        }
+      ],
+      "confidence": 0.4567
+    },
+    {
+      "match_num": 17,
+      "home": "Necaxa",
+      "away": "Toluca",
+      "league": "Liga MX",
+      "home_win": 0.3325,
+      "draw": 0.3442,
+      "away_win": 0.3232,
+      "pick": "E",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1637
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1473
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1318
+        }
+      ],
+      "confidence": 0.3442
+    },
+    {
+      "match_num": 18,
+      "home": "Querétaro",
+      "away": "Juárez",
+      "league": "Liga MX",
+      "home_win": 0.3937,
+      "draw": 0.3404,
+      "away_win": 0.266,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1632
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 0,
+          "probability": 0.1486
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.145
+        }
+      ],
+      "confidence": 0.3937
+    },
+    {
+      "match_num": 19,
+      "home": "Union Berlin",
+      "away": "Leverkusen",
+      "league": "Bundesliga",
+      "home_win": 0.918,
+      "draw": 0.0646,
+      "away_win": 0.0174,
+      "pick": "L",
+      "top_scorelines": [
+        {
+          "home_goals": 3,
+          "away_goals": 0,
+          "probability": 0.133
+        },
+        {
+          "home_goals": 4,
+          "away_goals": 0,
+          "probability": 0.1206
+        },
+        {
+          "home_goals": 2,
+          "away_goals": 0,
+          "probability": 0.1101
+        }
+      ],
+      "confidence": 0.918
+    },
+    {
+      "match_num": 20,
+      "home": "Atalanta",
+      "away": "Napoles",
+      "league": "Serie A",
+      "home_win": 0.276,
+      "draw": 0.3073,
+      "away_win": 0.4167,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1433
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.1209
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 0,
+          "probability": 0.1168
+        }
+      ],
+      "confidence": 0.4167
+    },
+    {
+      "match_num": 21,
+      "home": "Estrasburgo",
+      "away": "Lyon",
+      "league": "Ligue 1",
+      "home_win": 0.3226,
+      "draw": 0.2832,
+      "away_win": 0.3942,
+      "pick": "V",
+      "top_scorelines": [
+        {
+          "home_goals": 1,
+          "away_goals": 1,
+          "probability": 0.1352
+        },
+        {
+          "home_goals": 0,
+          "away_goals": 1,
+          "probability": 0.088
+        },
+        {
+          "home_goals": 1,
+          "away_goals": 2,
+          "probability": 0.0866
+        }
+      ],
+      "confidence": 0.3942
+    }
+  ],
+  "concurso": "2321",
+  "generated_at": "2026-02-19T00:41:47.969336"
+}

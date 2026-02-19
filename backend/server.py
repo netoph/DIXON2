@@ -201,18 +201,24 @@ async def lifespan(app: FastAPI):
     log_message("Server starting up...")
     _load_cache()
     
-    # Run initial pipeline in background thread so server starts immediately
-    # (critical for Render: must bind to PORT before health check timeout)
-    import threading
-    
-    def _initial_pipeline():
+    # On Render: skip heavy model fitting, just serve pre-computed predictions
+    # On local: run pipeline in background thread
+    if os.environ.get("RENDER"):
         if not current_predictions.get("progol"):
-            log_message("No cached predictions. Running initial pipeline...")
-            run_prediction_pipeline(use_demo=True)
+            log_message("Render: No cached predictions found! Run precompute.py locally and push.")
         else:
-            log_message("Loaded cached predictions. Skipping initial pipeline.")
-    
-    threading.Thread(target=_initial_pipeline, daemon=True).start()
+            log_message(f"Render: Loaded pre-computed predictions for Concurso {current_predictions.get('concurso', '?')}")
+    else:
+        import threading
+        
+        def _initial_pipeline():
+            if not current_predictions.get("progol"):
+                log_message("No cached predictions. Running initial pipeline...")
+                run_prediction_pipeline(use_demo=True)
+            else:
+                log_message("Loaded cached predictions. Skipping initial pipeline.")
+        
+        threading.Thread(target=_initial_pipeline, daemon=True).start()
     
     # Schedule weekly run: Monday 09:00 CST
     scheduler.add_job(

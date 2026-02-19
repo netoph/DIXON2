@@ -14,13 +14,13 @@ venv/
 env/
 .env
 
-# Data & cache (exclude cache but keep bundled training data)
-backend/data/predictions.json
-backend/data/status.json
+# Data & cache (exclude cache but keep bundled data)
 backend/data/current_fixtures.json
 backend/data/training_data_cache.csv
 backend/data/execution_log.txt
 !backend/data/real_training_data.csv
+!backend/data/predictions.json
+!backend/data/status.json
 
 # Node.js
 node_modules/

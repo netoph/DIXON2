@@ -1598,253 +1598,263 @@ alaves,valladolid,0,1,2024-04-05 00:00:00.000000
 leganes,espanyol,2,0,2024-04-06 00:00:00.000000
 leganes,valladolid,4,2,2024-04-07 00:00:00.000000
 espanyol,valladolid,1,0,2024-04-08 00:00:00.000000
-necaxa f,opponent_a,1,2,2025-11-02 22:40:34.533689
-opponent_b,necaxa f,3,3,2025-11-12 22:40:34.533689
-necaxa f,opponent_c,1,0,2025-11-22 22:40:34.533689
-opponent_d,necaxa f,1,1,2025-12-02 22:40:34.533689
-necaxa f,opponent_e,2,0,2025-12-12 22:40:34.533689
-opponent_a,necaxa f,2,2,2025-12-22 22:40:34.533689
-necaxa f,opponent_b,1,4,2026-01-01 22:40:34.533689
-opponent_c,necaxa f,1,2,2026-01-11 22:40:34.533689
-necaxa f,opponent_d,1,0,2026-01-21 22:40:34.533689
-opponent_e,necaxa f,1,1,2026-01-31 22:40:34.533689
-s. laguna f,opponent_a,3,0,2025-11-02 22:40:34.544273
-opponent_b,s. laguna f,1,0,2025-11-12 22:40:34.544273
-s. laguna f,opponent_c,3,0,2025-11-22 22:40:34.544273
-opponent_d,s. laguna f,4,3,2025-12-02 22:40:34.544273
-s. laguna f,opponent_e,2,0,2025-12-12 22:40:34.544273
-opponent_a,s. laguna f,0,3,2025-12-22 22:40:34.544273
-s. laguna f,opponent_b,1,1,2026-01-01 22:40:34.544273
-opponent_c,s. laguna f,0,2,2026-01-11 22:40:34.544273
-s. laguna f,opponent_d,2,0,2026-01-21 22:40:34.544273
-opponent_e,s. laguna f,2,1,2026-01-31 22:40:34.544273
-juarez f,opponent_a,0,1,2025-11-02 22:40:34.549722
-opponent_b,juarez f,2,0,2025-11-12 22:40:34.549722
-juarez f,opponent_c,1,0,2025-11-22 22:40:34.549722
-opponent_d,juarez f,1,1,2025-12-02 22:40:34.549722
-juarez f,opponent_e,3,0,2025-12-12 22:40:34.549722
-opponent_a,juarez f,1,0,2025-12-22 22:40:34.549722
-juarez f,opponent_b,5,0,2026-01-01 22:40:34.549722
-opponent_c,juarez f,3,1,2026-01-11 22:40:34.549722
-juarez f,opponent_d,0,1,2026-01-21 22:40:34.549722
-opponent_e,juarez f,2,0,2026-01-31 22:40:34.549722
-pumas f,opponent_a,2,0,2025-11-02 22:40:34.555985
-opponent_b,pumas f,1,3,2025-11-12 22:40:34.555985
-pumas f,opponent_c,3,1,2025-11-22 22:40:34.555985
-opponent_d,pumas f,2,0,2025-12-02 22:40:34.555985
-pumas f,opponent_e,2,1,2025-12-12 22:40:34.555985
-opponent_a,pumas f,0,0,2025-12-22 22:40:34.555985
-pumas f,opponent_b,4,2,2026-01-01 22:40:34.555985
-opponent_c,pumas f,0,0,2026-01-11 22:40:34.555985
-pumas f,opponent_d,1,1,2026-01-21 22:40:34.555985
-opponent_e,pumas f,1,2,2026-01-31 22:40:34.555985
-tijuana f,opponent_a,2,1,2025-11-02 22:40:34.562780
-opponent_b,tijuana f,0,1,2025-11-12 22:40:34.562780
-tijuana f,opponent_c,1,1,2025-11-22 22:40:34.562780
-opponent_d,tijuana f,1,1,2025-12-02 22:40:34.562780
-tijuana f,opponent_e,1,1,2025-12-12 22:40:34.562780
-opponent_a,tijuana f,2,2,2025-12-22 22:40:34.562780
-tijuana f,opponent_b,2,1,2026-01-01 22:40:34.562780
-opponent_c,tijuana f,0,0,2026-01-11 22:40:34.562780
-tijuana f,opponent_d,1,2,2026-01-21 22:40:34.562780
-opponent_e,tijuana f,1,2,2026-01-31 22:40:34.562780
-cruz azul f,opponent_a,0,1,2025-11-02 22:40:34.568453
-opponent_b,cruz azul f,1,0,2025-11-12 22:40:34.568453
-cruz azul f,opponent_c,3,1,2025-11-22 22:40:34.568453
-opponent_d,cruz azul f,3,1,2025-12-02 22:40:34.568453
-cruz azul f,opponent_e,1,1,2025-12-12 22:40:34.568453
-opponent_a,cruz azul f,0,0,2025-12-22 22:40:34.568453
-cruz azul f,opponent_b,3,2,2026-01-01 22:40:34.568453
-opponent_c,cruz azul f,1,0,2026-01-11 22:40:34.568453
-cruz azul f,opponent_d,1,0,2026-01-21 22:40:34.568453
-opponent_e,cruz azul f,1,1,2026-01-31 22:40:34.568453
-aguilas f,opponent_a,3,2,2025-11-02 22:40:34.575223
-opponent_b,aguilas f,0,2,2025-11-12 22:40:34.575223
-aguilas f,opponent_c,1,0,2025-11-22 22:40:34.575223
-opponent_d,aguilas f,1,0,2025-12-02 22:40:34.575223
-aguilas f,opponent_e,2,1,2025-12-12 22:40:34.575223
-opponent_a,aguilas f,3,0,2025-12-22 22:40:34.575223
-aguilas f,opponent_b,0,1,2026-01-01 22:40:34.575223
-opponent_c,aguilas f,2,0,2026-01-11 22:40:34.575223
-aguilas f,opponent_d,1,2,2026-01-21 22:40:34.575223
-opponent_e,aguilas f,3,1,2026-01-31 22:40:34.575223
-monterrey f,opponent_a,2,2,2025-11-02 22:40:34.662355
-opponent_b,monterrey f,1,1,2025-11-12 22:40:34.662355
-monterrey f,opponent_c,1,5,2025-11-22 22:40:34.662355
-opponent_d,monterrey f,0,0,2025-12-02 22:40:34.662355
-monterrey f,opponent_e,2,1,2025-12-12 22:40:34.662355
-opponent_a,monterrey f,3,0,2025-12-22 22:40:34.662355
-monterrey f,opponent_b,2,0,2026-01-01 22:40:34.662355
-opponent_c,monterrey f,0,2,2026-01-11 22:40:34.662355
-monterrey f,opponent_d,2,1,2026-01-21 22:40:34.662355
-opponent_e,monterrey f,0,2,2026-01-31 22:40:34.662355
-levante,opponent_a,1,1,2025-11-02 22:40:34.672591
-opponent_b,levante,0,0,2025-11-12 22:40:34.672591
-levante,opponent_c,0,3,2025-11-22 22:40:34.672591
-opponent_d,levante,4,0,2025-12-02 22:40:34.672591
-levante,opponent_e,1,0,2025-12-12 22:40:34.672591
-opponent_a,levante,3,1,2025-12-22 22:40:34.672591
-levante,opponent_b,0,1,2026-01-01 22:40:34.672591
-opponent_c,levante,1,2,2026-01-11 22:40:34.672591
-levante,opponent_d,0,0,2026-01-21 22:40:34.672591
-opponent_e,levante,1,4,2026-01-31 22:40:34.672591
-lazio,opponent_a,3,0,2025-11-02 22:40:34.680690
-opponent_b,lazio,1,2,2025-11-12 22:40:34.680690
-lazio,opponent_c,1,4,2025-11-22 22:40:34.680690
-opponent_d,lazio,2,0,2025-12-02 22:40:34.680690
-lazio,opponent_e,0,0,2025-12-12 22:40:34.680690
-opponent_a,lazio,0,0,2025-12-22 22:40:34.680690
-lazio,opponent_b,1,1,2026-01-01 22:40:34.680690
-opponent_c,lazio,0,1,2026-01-11 22:40:34.680690
-lazio,opponent_d,0,1,2026-01-21 22:40:34.680690
-opponent_e,lazio,1,4,2026-01-31 22:40:34.680690
-atalanta,opponent_a,0,1,2025-11-02 22:40:34.701743
-opponent_b,atalanta,0,0,2025-11-12 22:40:34.701743
-atalanta,opponent_c,2,1,2025-11-22 22:40:34.701743
-opponent_d,atalanta,1,1,2025-12-02 22:40:34.701743
-atalanta,opponent_e,1,0,2025-12-12 22:40:34.701743
-opponent_a,atalanta,2,4,2025-12-22 22:40:34.701743
-atalanta,opponent_b,3,3,2026-01-01 22:40:34.701743
-opponent_c,atalanta,4,1,2026-01-11 22:40:34.701743
-atalanta,opponent_d,1,0,2026-01-21 22:40:34.701743
-opponent_e,atalanta,1,2,2026-01-31 22:40:34.701743
-cremonese,opponent_a,0,3,2025-11-02 22:40:34.707201
-opponent_b,cremonese,1,0,2025-11-12 22:40:34.707201
-cremonese,opponent_c,1,0,2025-11-22 22:40:34.707201
-opponent_d,cremonese,1,2,2025-12-02 22:40:34.707201
-cremonese,opponent_e,0,3,2025-12-12 22:40:34.707201
-opponent_a,cremonese,0,4,2025-12-22 22:40:34.707201
-cremonese,opponent_b,1,1,2026-01-01 22:40:34.707201
-opponent_c,cremonese,0,0,2026-01-11 22:40:34.707201
-cremonese,opponent_d,0,3,2026-01-21 22:40:34.707201
-opponent_e,cremonese,0,2,2026-01-31 22:40:34.707201
-genova,opponent_a,0,2,2025-11-02 22:40:34.714483
-opponent_b,genova,2,3,2025-11-12 22:40:34.714483
-genova,opponent_c,1,0,2025-11-22 22:40:34.714483
-opponent_d,genova,2,2,2025-12-02 22:40:34.714483
-genova,opponent_e,2,0,2025-12-12 22:40:34.714483
-opponent_a,genova,2,3,2025-12-22 22:40:34.714483
-genova,opponent_b,0,2,2026-01-01 22:40:34.714483
-opponent_c,genova,1,0,2026-01-11 22:40:34.714483
-genova,opponent_d,2,0,2026-01-21 22:40:34.714483
-opponent_e,genova,2,2,2026-01-31 22:40:34.714483
-torino,opponent_a,0,1,2025-11-02 22:40:34.721835
-opponent_b,torino,2,3,2025-11-12 22:40:34.721835
-torino,opponent_c,2,1,2025-11-22 22:40:34.721835
-opponent_d,torino,1,2,2025-12-02 22:40:34.721835
-torino,opponent_e,0,1,2025-12-12 22:40:34.721835
-opponent_a,torino,1,1,2025-12-22 22:40:34.721835
-torino,opponent_b,0,2,2026-01-01 22:40:34.721835
-opponent_c,torino,0,3,2026-01-11 22:40:34.721835
-torino,opponent_d,0,1,2026-01-21 22:40:34.721835
-opponent_e,torino,1,5,2026-01-31 22:40:34.721835
-bologna,opponent_a,1,0,2025-11-02 22:40:34.729201
-opponent_b,bologna,2,1,2025-11-12 22:40:34.729201
-bologna,opponent_c,0,2,2025-11-22 22:40:34.729201
-opponent_d,bologna,0,1,2025-12-02 22:40:34.729201
-bologna,opponent_e,2,1,2025-12-12 22:40:34.729201
-opponent_a,bologna,2,0,2025-12-22 22:40:34.729201
-bologna,opponent_b,0,0,2026-01-01 22:40:34.729201
-opponent_c,bologna,1,0,2026-01-11 22:40:34.729201
-bologna,opponent_d,3,2,2026-01-21 22:40:34.729201
-opponent_e,bologna,2,1,2026-01-31 22:40:34.729201
-metz,opponent_a,2,2,2025-11-02 22:40:34.735878
-opponent_b,metz,1,1,2025-11-12 22:40:34.735878
-metz,opponent_c,4,0,2025-11-22 22:40:34.735878
-opponent_d,metz,0,0,2025-12-02 22:40:34.735878
-metz,opponent_e,1,0,2025-12-12 22:40:34.735878
-opponent_a,metz,1,1,2025-12-22 22:40:34.735878
-metz,opponent_b,1,1,2026-01-01 22:40:34.735878
-opponent_c,metz,2,1,2026-01-11 22:40:34.735878
-metz,opponent_d,0,0,2026-01-21 22:40:34.735878
-opponent_e,metz,4,2,2026-01-31 22:40:34.735878
-auxerre,opponent_a,2,1,2025-11-02 22:40:34.742509
-opponent_b,auxerre,0,0,2025-11-12 22:40:34.742509
-auxerre,opponent_c,1,0,2025-11-22 22:40:34.742509
-opponent_d,auxerre,0,1,2025-12-02 22:40:34.742509
-auxerre,opponent_e,0,2,2025-12-12 22:40:34.742509
-opponent_a,auxerre,2,0,2025-12-22 22:40:34.742509
-auxerre,opponent_b,1,0,2026-01-01 22:40:34.742509
-opponent_c,auxerre,3,2,2026-01-11 22:40:34.742509
-auxerre,opponent_d,1,2,2026-01-21 22:40:34.742509
-opponent_e,auxerre,1,0,2026-01-31 22:40:34.742509
-sparta,opponent_a,0,1,2025-11-02 22:40:34.749615
-opponent_b,sparta,1,0,2025-11-12 22:40:34.749615
-sparta,opponent_c,0,2,2025-11-22 22:40:34.749615
-opponent_d,sparta,1,1,2025-12-02 22:40:34.749615
-sparta,opponent_e,1,1,2025-12-12 22:40:34.749615
-opponent_a,sparta,2,1,2025-12-22 22:40:34.749615
-sparta,opponent_b,2,4,2026-01-01 22:40:34.749615
-opponent_c,sparta,2,1,2026-01-11 22:40:34.749615
-sparta,opponent_d,1,1,2026-01-21 22:40:34.749615
-opponent_e,sparta,2,1,2026-01-31 22:40:34.749615
-nijmegen,opponent_a,4,2,2025-11-02 22:40:34.755825
-opponent_b,nijmegen,2,2,2025-11-12 22:40:34.755825
-nijmegen,opponent_c,3,1,2025-11-22 22:40:34.755825
-opponent_d,nijmegen,0,4,2025-12-02 22:40:34.755825
-nijmegen,opponent_e,0,0,2025-12-12 22:40:34.755825
-opponent_a,nijmegen,2,1,2025-12-22 22:40:34.755825
-nijmegen,opponent_b,1,0,2026-01-01 22:40:34.755825
-opponent_c,nijmegen,1,2,2026-01-11 22:40:34.755825
-nijmegen,opponent_d,4,1,2026-01-21 22:40:34.755825
-opponent_e,nijmegen,2,1,2026-01-31 22:40:34.755825
-charleroi,opponent_a,0,1,2025-11-02 22:40:34.764192
-opponent_b,charleroi,2,2,2025-11-12 22:40:34.764192
-charleroi,opponent_c,1,0,2025-11-22 22:40:34.764192
-opponent_d,charleroi,1,1,2025-12-02 22:40:34.764192
-charleroi,opponent_e,1,1,2025-12-12 22:40:34.764192
-opponent_a,charleroi,1,2,2025-12-22 22:40:34.764192
-charleroi,opponent_b,3,1,2026-01-01 22:40:34.764192
-opponent_c,charleroi,1,1,2026-01-11 22:40:34.764192
-charleroi,opponent_d,2,1,2026-01-21 22:40:34.764192
-opponent_e,charleroi,0,0,2026-01-31 22:40:34.764192
-gent,opponent_a,1,0,2025-11-02 22:40:34.768988
-opponent_b,gent,1,2,2025-11-12 22:40:34.768988
-gent,opponent_c,2,1,2025-11-22 22:40:34.768988
-opponent_d,gent,0,0,2025-12-02 22:40:34.768988
-gent,opponent_e,2,2,2025-12-12 22:40:34.768988
-opponent_a,gent,2,3,2025-12-22 22:40:34.768988
-gent,opponent_b,0,4,2026-01-01 22:40:34.768988
-opponent_c,gent,0,2,2026-01-11 22:40:34.768988
-gent,opponent_d,0,0,2026-01-21 22:40:34.768988
-opponent_e,gent,0,1,2026-01-31 22:40:34.768988
-gimnasia lp,opponent_a,0,1,2025-11-02 22:40:34.775860
-opponent_b,gimnasia lp,1,2,2025-11-12 22:40:34.775860
-gimnasia lp,opponent_c,0,2,2025-11-22 22:40:34.775860
-opponent_d,gimnasia lp,3,0,2025-12-02 22:40:34.775860
-gimnasia lp,opponent_e,2,0,2025-12-12 22:40:34.775860
-opponent_a,gimnasia lp,2,1,2025-12-22 22:40:34.775860
-gimnasia lp,opponent_b,3,1,2026-01-01 22:40:34.775860
-opponent_c,gimnasia lp,0,2,2026-01-11 22:40:34.775860
-gimnasia lp,opponent_d,0,0,2026-01-21 22:40:34.775860
-opponent_e,gimnasia lp,2,1,2026-01-31 22:40:34.775860
-estudiantes,opponent_a,3,3,2025-11-02 22:40:34.782184
-opponent_b,estudiantes,1,0,2025-11-12 22:40:34.782184
-estudiantes,opponent_c,1,1,2025-11-22 22:40:34.782184
-opponent_d,estudiantes,2,2,2025-12-02 22:40:34.782184
-estudiantes,opponent_e,1,2,2025-12-12 22:40:34.782184
-opponent_a,estudiantes,0,2,2025-12-22 22:40:34.782184
-estudiantes,opponent_b,1,1,2026-01-01 22:40:34.782184
-opponent_c,estudiantes,1,2,2026-01-11 22:40:34.782184
-estudiantes,opponent_d,4,4,2026-01-21 22:40:34.782184
-opponent_e,estudiantes,0,1,2026-01-31 22:40:34.782184
-inter,opponent_a,2,0,2025-11-02 22:40:34.787991
-opponent_b,inter,0,1,2025-11-12 22:40:34.787991
-inter,opponent_c,0,1,2025-11-22 22:40:34.787991
-opponent_d,inter,1,2,2025-12-02 22:40:34.787991
-inter,opponent_e,1,3,2025-12-12 22:40:34.787991
-opponent_a,inter,1,0,2025-12-22 22:40:34.787991
-inter,opponent_b,1,1,2026-01-01 22:40:34.787991
-opponent_c,inter,2,2,2026-01-11 22:40:34.787991
-inter,opponent_d,2,1,2026-01-21 22:40:34.787991
-opponent_e,inter,3,0,2026-01-31 22:40:34.787991
-juventus,opponent_a,1,0,2025-11-02 22:40:34.797405
-opponent_b,juventus,2,1,2025-11-12 22:40:34.797405
-juventus,opponent_c,1,1,2025-11-22 22:40:34.797405
-opponent_d,juventus,1,0,2025-12-02 22:40:34.797405
-juventus,opponent_e,2,1,2025-12-12 22:40:34.797405
-opponent_a,juventus,2,1,2025-12-22 22:40:34.797405
-juventus,opponent_b,4,0,2026-01-01 22:40:34.797405
-opponent_c,juventus,1,0,2026-01-11 22:40:34.797405
-juventus,opponent_d,2,1,2026-01-21 22:40:34.797405
-opponent_e,juventus,1,2,2026-01-31 22:40:34.797405
+guadalajara f,opponent_a,2,5,2025-11-11 00:41:43.071363
+opponent_b,guadalajara f,1,4,2025-11-21 00:41:43.071363
+guadalajara f,opponent_c,1,0,2025-12-01 00:41:43.071363
+opponent_d,guadalajara f,1,1,2025-12-11 00:41:43.071363
+guadalajara f,opponent_e,3,0,2025-12-21 00:41:43.071363
+opponent_a,guadalajara f,2,0,2025-12-31 00:41:43.071363
+guadalajara f,opponent_b,1,0,2026-01-10 00:41:43.071363
+opponent_c,guadalajara f,1,1,2026-01-20 00:41:43.071363
+guadalajara f,opponent_d,1,1,2026-01-30 00:41:43.071363
+opponent_e,guadalajara f,1,1,2026-02-09 00:41:43.071363
+aguilas f,opponent_a,2,0,2025-11-11 00:41:43.086464
+opponent_b,aguilas f,1,1,2025-11-21 00:41:43.086464
+aguilas f,opponent_c,2,1,2025-12-01 00:41:43.086464
+opponent_d,aguilas f,5,2,2025-12-11 00:41:43.086464
+aguilas f,opponent_e,3,1,2025-12-21 00:41:43.086464
+opponent_a,aguilas f,1,0,2025-12-31 00:41:43.086464
+aguilas f,opponent_b,0,1,2026-01-10 00:41:43.086464
+opponent_c,aguilas f,1,2,2026-01-20 00:41:43.086464
+aguilas f,opponent_d,1,2,2026-01-30 00:41:43.086464
+opponent_e,aguilas f,0,3,2026-02-09 00:41:43.086464
+necaxa f,opponent_a,0,2,2025-11-11 00:41:43.103413
+opponent_b,necaxa f,1,1,2025-11-21 00:41:43.103413
+necaxa f,opponent_c,2,2,2025-12-01 00:41:43.103413
+opponent_d,necaxa f,1,1,2025-12-11 00:41:43.103413
+necaxa f,opponent_e,3,1,2025-12-21 00:41:43.103413
+opponent_a,necaxa f,0,1,2025-12-31 00:41:43.103413
+necaxa f,opponent_b,2,1,2026-01-10 00:41:43.103413
+opponent_c,necaxa f,0,1,2026-01-20 00:41:43.103413
+necaxa f,opponent_d,0,0,2026-01-30 00:41:43.103413
+opponent_e,necaxa f,0,0,2026-02-09 00:41:43.103413
+queretaro f,opponent_a,0,3,2025-11-11 00:41:43.113742
+opponent_b,queretaro f,1,0,2025-11-21 00:41:43.113742
+queretaro f,opponent_c,2,1,2025-12-01 00:41:43.113742
+opponent_d,queretaro f,2,1,2025-12-11 00:41:43.113742
+queretaro f,opponent_e,3,1,2025-12-21 00:41:43.113742
+opponent_a,queretaro f,1,1,2025-12-31 00:41:43.113742
+queretaro f,opponent_b,0,4,2026-01-10 00:41:43.113742
+opponent_c,queretaro f,1,1,2026-01-20 00:41:43.113742
+queretaro f,opponent_d,1,1,2026-01-30 00:41:43.113742
+opponent_e,queretaro f,1,0,2026-02-09 00:41:43.113742
+leipzig,opponent_a,0,0,2025-11-11 00:41:43.122938
+opponent_b,leipzig,3,1,2025-11-21 00:41:43.122938
+leipzig,opponent_c,0,1,2025-12-01 00:41:43.122938
+opponent_d,leipzig,2,4,2025-12-11 00:41:43.122938
+leipzig,opponent_e,1,2,2025-12-21 00:41:43.122938
+opponent_a,leipzig,1,1,2025-12-31 00:41:43.122938
+leipzig,opponent_b,1,1,2026-01-10 00:41:43.122938
+opponent_c,leipzig,1,1,2026-01-20 00:41:43.122938
+leipzig,opponent_d,1,1,2026-01-30 00:41:43.122938
+opponent_e,leipzig,2,4,2026-02-09 00:41:43.122938
+dortmund,opponent_a,1,0,2025-11-11 00:41:43.138785
+opponent_b,dortmund,1,1,2025-11-21 00:41:43.138785
+dortmund,opponent_c,1,2,2025-12-01 00:41:43.138785
+opponent_d,dortmund,0,0,2025-12-11 00:41:43.138785
+dortmund,opponent_e,0,2,2025-12-21 00:41:43.138785
+opponent_a,dortmund,1,4,2025-12-31 00:41:43.138785
+dortmund,opponent_b,2,0,2026-01-10 00:41:43.138785
+opponent_c,dortmund,1,0,2026-01-20 00:41:43.138785
+dortmund,opponent_d,0,0,2026-01-30 00:41:43.138785
+opponent_e,dortmund,2,0,2026-02-09 00:41:43.138785
+st. pauli,opponent_a,2,4,2025-11-11 00:41:43.148843
+opponent_b,st. pauli,1,0,2025-11-21 00:41:43.148843
+st. pauli,opponent_c,4,2,2025-12-01 00:41:43.148843
+opponent_d,st. pauli,0,1,2025-12-11 00:41:43.148843
+st. pauli,opponent_e,1,2,2025-12-21 00:41:43.148843
+opponent_a,st. pauli,1,1,2025-12-31 00:41:43.148843
+st. pauli,opponent_b,1,2,2026-01-10 00:41:43.148843
+opponent_c,st. pauli,3,1,2026-01-20 00:41:43.148843
+st. pauli,opponent_d,2,1,2026-01-30 00:41:43.148843
+opponent_e,st. pauli,0,0,2026-02-09 00:41:43.148843
+werder bremen,opponent_a,2,0,2025-11-11 00:41:43.156658
+opponent_b,werder bremen,5,0,2025-11-21 00:41:43.156658
+werder bremen,opponent_c,0,0,2025-12-01 00:41:43.156658
+opponent_d,werder bremen,1,0,2025-12-11 00:41:43.156658
+werder bremen,opponent_e,2,0,2025-12-21 00:41:43.156658
+opponent_a,werder bremen,1,0,2025-12-31 00:41:43.156658
+werder bremen,opponent_b,3,0,2026-01-10 00:41:43.156658
+opponent_c,werder bremen,0,1,2026-01-20 00:41:43.156658
+werder bremen,opponent_d,2,2,2026-01-30 00:41:43.156658
+opponent_e,werder bremen,0,3,2026-02-09 00:41:43.156658
+genova,opponent_a,3,2,2025-11-11 00:41:43.167783
+opponent_b,genova,1,1,2025-11-21 00:41:43.167783
+genova,opponent_c,3,2,2025-12-01 00:41:43.167783
+opponent_d,genova,2,3,2025-12-11 00:41:43.167783
+genova,opponent_e,2,1,2025-12-21 00:41:43.167783
+opponent_a,genova,0,2,2025-12-31 00:41:43.167783
+genova,opponent_b,1,1,2026-01-10 00:41:43.167783
+opponent_c,genova,1,2,2026-01-20 00:41:43.167783
+genova,opponent_d,2,0,2026-01-30 00:41:43.167783
+opponent_e,genova,2,1,2026-02-09 00:41:43.167783
+torino,opponent_a,1,1,2025-11-11 00:41:43.181525
+opponent_b,torino,0,2,2025-11-21 00:41:43.181525
+torino,opponent_c,1,3,2025-12-01 00:41:43.181525
+opponent_d,torino,1,2,2025-12-11 00:41:43.181525
+torino,opponent_e,0,0,2025-12-21 00:41:43.181525
+opponent_a,torino,0,1,2025-12-31 00:41:43.181525
+torino,opponent_b,2,1,2026-01-10 00:41:43.181525
+opponent_c,torino,1,1,2026-01-20 00:41:43.181525
+torino,opponent_d,2,2,2026-01-30 00:41:43.181525
+opponent_e,torino,1,1,2026-02-09 00:41:43.181525
+estoril,opponent_a,1,0,2025-11-11 00:41:43.190507
+opponent_b,estoril,2,0,2025-11-21 00:41:43.190507
+estoril,opponent_c,0,0,2025-12-01 00:41:43.190507
+opponent_d,estoril,0,3,2025-12-11 00:41:43.190507
+estoril,opponent_e,2,0,2025-12-21 00:41:43.190507
+opponent_a,estoril,2,2,2025-12-31 00:41:43.190507
+estoril,opponent_b,3,0,2026-01-10 00:41:43.190507
+opponent_c,estoril,0,3,2026-01-20 00:41:43.190507
+estoril,opponent_d,2,2,2026-01-30 00:41:43.190507
+opponent_e,estoril,1,1,2026-02-09 00:41:43.190507
+gil vicente,opponent_a,0,2,2025-11-11 00:41:43.201449
+opponent_b,gil vicente,1,1,2025-11-21 00:41:43.201449
+gil vicente,opponent_c,1,0,2025-12-01 00:41:43.201449
+opponent_d,gil vicente,1,3,2025-12-11 00:41:43.201449
+gil vicente,opponent_e,3,1,2025-12-21 00:41:43.201449
+opponent_a,gil vicente,1,0,2025-12-31 00:41:43.201449
+gil vicente,opponent_b,1,0,2026-01-10 00:41:43.201449
+opponent_c,gil vicente,0,2,2026-01-20 00:41:43.201449
+gil vicente,opponent_d,1,1,2026-01-30 00:41:43.201449
+opponent_e,gil vicente,3,0,2026-02-09 00:41:43.201449
+westerlo,opponent_a,0,2,2025-11-11 00:41:43.210949
+opponent_b,westerlo,0,1,2025-11-21 00:41:43.210949
+westerlo,opponent_c,2,0,2025-12-01 00:41:43.210949
+opponent_d,westerlo,0,1,2025-12-11 00:41:43.210949
+westerlo,opponent_e,3,1,2025-12-21 00:41:43.210949
+opponent_a,westerlo,0,0,2025-12-31 00:41:43.210949
+westerlo,opponent_b,0,1,2026-01-10 00:41:43.210949
+opponent_c,westerlo,1,1,2026-01-20 00:41:43.210949
+westerlo,opponent_d,1,0,2026-01-30 00:41:43.210949
+opponent_e,westerlo,0,5,2026-02-09 00:41:43.210949
+charleroi,opponent_a,3,2,2025-11-11 00:41:43.218688
+opponent_b,charleroi,1,2,2025-11-21 00:41:43.218688
+charleroi,opponent_c,0,0,2025-12-01 00:41:43.218688
+opponent_d,charleroi,0,0,2025-12-11 00:41:43.218688
+charleroi,opponent_e,0,0,2025-12-21 00:41:43.218688
+opponent_a,charleroi,1,3,2025-12-31 00:41:43.218688
+charleroi,opponent_b,4,1,2026-01-10 00:41:43.218688
+opponent_c,charleroi,0,2,2026-01-20 00:41:43.218688
+charleroi,opponent_d,1,2,2026-01-30 00:41:43.218688
+opponent_e,charleroi,1,1,2026-02-09 00:41:43.218688
+velez,opponent_a,0,1,2025-11-11 00:41:43.228980
+opponent_b,velez,2,1,2025-11-21 00:41:43.228980
+velez,opponent_c,2,0,2025-12-01 00:41:43.228980
+opponent_d,velez,1,1,2025-12-11 00:41:43.228980
+velez,opponent_e,1,0,2025-12-21 00:41:43.228980
+opponent_a,velez,5,1,2025-12-31 00:41:43.228980
+velez,opponent_b,1,1,2026-01-10 00:41:43.228980
+opponent_c,velez,3,0,2026-01-20 00:41:43.228980
+velez,opponent_d,0,2,2026-01-30 00:41:43.228980
+opponent_e,velez,0,3,2026-02-09 00:41:43.228980
+river plate,opponent_a,1,0,2025-11-11 00:41:43.236735
+opponent_b,river plate,1,0,2025-11-21 00:41:43.236735
+river plate,opponent_c,1,0,2025-12-01 00:41:43.236735
+opponent_d,river plate,1,2,2025-12-11 00:41:43.236735
+river plate,opponent_e,1,1,2025-12-21 00:41:43.236735
+opponent_a,river plate,1,1,2025-12-31 00:41:43.236735
+river plate,opponent_b,2,1,2026-01-10 00:41:43.236735
+opponent_c,river plate,1,0,2026-01-20 00:41:43.236735
+river plate,opponent_d,3,1,2026-01-30 00:41:43.236735
+opponent_e,river plate,6,1,2026-02-09 00:41:43.236735
+houston,opponent_a,1,2,2025-11-11 00:41:43.253814
+opponent_b,houston,0,0,2025-11-21 00:41:43.253814
+houston,opponent_c,2,1,2025-12-01 00:41:43.253814
+opponent_d,houston,0,0,2025-12-11 00:41:43.253814
+houston,opponent_e,3,0,2025-12-21 00:41:43.253814
+opponent_a,houston,0,4,2025-12-31 00:41:43.253814
+houston,opponent_b,0,2,2026-01-10 00:41:43.253814
+opponent_c,houston,3,1,2026-01-20 00:41:43.253814
+houston,opponent_d,1,1,2026-01-30 00:41:43.253814
+opponent_e,houston,1,0,2026-02-09 00:41:43.253814
+chicago,opponent_a,0,2,2025-11-11 00:41:43.265739
+opponent_b,chicago,3,0,2025-11-21 00:41:43.265739
+chicago,opponent_c,1,0,2025-12-01 00:41:43.265739
+opponent_d,chicago,1,0,2025-12-11 00:41:43.265739
+chicago,opponent_e,3,1,2025-12-21 00:41:43.265739
+opponent_a,chicago,0,1,2025-12-31 00:41:43.265739
+chicago,opponent_b,1,1,2026-01-10 00:41:43.265739
+opponent_c,chicago,1,1,2026-01-20 00:41:43.265739
+chicago,opponent_d,1,2,2026-01-30 00:41:43.265739
+opponent_e,chicago,2,1,2026-02-09 00:41:43.265739
+saprissa,opponent_a,2,1,2025-11-11 00:41:43.273874
+opponent_b,saprissa,0,1,2025-11-21 00:41:43.273874
+saprissa,opponent_c,2,1,2025-12-01 00:41:43.273874
+opponent_d,saprissa,2,1,2025-12-11 00:41:43.273874
+saprissa,opponent_e,2,1,2025-12-21 00:41:43.273874
+opponent_a,saprissa,1,1,2025-12-31 00:41:43.273874
+saprissa,opponent_b,3,1,2026-01-10 00:41:43.273874
+opponent_c,saprissa,0,0,2026-01-20 00:41:43.273874
+saprissa,opponent_d,1,2,2026-01-30 00:41:43.273874
+opponent_e,saprissa,0,0,2026-02-09 00:41:43.273874
+alajuelense,opponent_a,0,0,2025-11-11 00:41:43.283491
+opponent_b,alajuelense,2,1,2025-11-21 00:41:43.283491
+alajuelense,opponent_c,2,1,2025-12-01 00:41:43.283491
+opponent_d,alajuelense,1,2,2025-12-11 00:41:43.283491
+alajuelense,opponent_e,0,1,2025-12-21 00:41:43.283491
+opponent_a,alajuelense,0,1,2025-12-31 00:41:43.283491
+alajuelense,opponent_b,0,1,2026-01-10 00:41:43.283491
+opponent_c,alajuelense,2,2,2026-01-20 00:41:43.283491
+alajuelense,opponent_d,1,0,2026-01-30 00:41:43.283491
+opponent_e,alajuelense,2,3,2026-02-09 00:41:43.283491
+union berlin,opponent_a,2,1,2025-11-11 00:41:43.292230
+opponent_b,union berlin,2,3,2025-11-21 00:41:43.292230
+union berlin,opponent_c,1,0,2025-12-01 00:41:43.292230
+opponent_d,union berlin,1,0,2025-12-11 00:41:43.292230
+union berlin,opponent_e,1,1,2025-12-21 00:41:43.292230
+opponent_a,union berlin,1,3,2025-12-31 00:41:43.292230
+union berlin,opponent_b,5,1,2026-01-10 00:41:43.292230
+opponent_c,union berlin,1,3,2026-01-20 00:41:43.292230
+union berlin,opponent_d,1,0,2026-01-30 00:41:43.292230
+opponent_e,union berlin,0,5,2026-02-09 00:41:43.292230
+leverkusen,opponent_a,0,3,2025-11-11 00:41:43.304819
+opponent_b,leverkusen,2,0,2025-11-21 00:41:43.304819
+leverkusen,opponent_c,1,1,2025-12-01 00:41:43.304819
+opponent_d,leverkusen,2,3,2025-12-11 00:41:43.304819
+leverkusen,opponent_e,0,1,2025-12-21 00:41:43.304819
+opponent_a,leverkusen,1,0,2025-12-31 00:41:43.304819
+leverkusen,opponent_b,1,0,2026-01-10 00:41:43.304819
+opponent_c,leverkusen,3,1,2026-01-20 00:41:43.304819
+leverkusen,opponent_d,0,2,2026-01-30 00:41:43.304819
+opponent_e,leverkusen,2,2,2026-02-09 00:41:43.304819
+atalanta,opponent_a,1,0,2025-11-11 00:41:43.316871
+opponent_b,atalanta,1,1,2025-11-21 00:41:43.316871
+atalanta,opponent_c,0,0,2025-12-01 00:41:43.316871
+opponent_d,atalanta,0,0,2025-12-11 00:41:43.316871
+atalanta,opponent_e,0,0,2025-12-21 00:41:43.316871
+opponent_a,atalanta,2,1,2025-12-31 00:41:43.316871
+atalanta,opponent_b,0,0,2026-01-10 00:41:43.316871
+opponent_c,atalanta,3,3,2026-01-20 00:41:43.316871
+atalanta,opponent_d,0,1,2026-01-30 00:41:43.316871
+opponent_e,atalanta,1,3,2026-02-09 00:41:43.316871
+napoles,opponent_a,1,3,2025-11-11 00:41:43.324055
+opponent_b,napoles,1,0,2025-11-21 00:41:43.324055
+napoles,opponent_c,3,0,2025-12-01 00:41:43.324055
+opponent_d,napoles,0,3,2025-12-11 00:41:43.324055
+napoles,opponent_e,1,2,2025-12-21 00:41:43.324055
+opponent_a,napoles,4,1,2025-12-31 00:41:43.324055
+napoles,opponent_b,1,1,2026-01-10 00:41:43.324055
+opponent_c,napoles,0,2,2026-01-20 00:41:43.324055
+napoles,opponent_d,3,1,2026-01-30 00:41:43.324055
+opponent_e,napoles,0,3,2026-02-09 00:41:43.324055
+estrasburgo,opponent_a,1,1,2025-11-11 00:41:43.333815
+opponent_b,estrasburgo,3,0,2025-11-21 00:41:43.333815
+estrasburgo,opponent_c,1,2,2025-12-01 00:41:43.333815
+opponent_d,estrasburgo,2,1,2025-12-11 00:41:43.333815
+estrasburgo,opponent_e,0,3,2025-12-21 00:41:43.333815
+opponent_a,estrasburgo,0,3,2025-12-31 00:41:43.333815
+estrasburgo,opponent_b,2,1,2026-01-10 00:41:43.333815
+opponent_c,estrasburgo,0,1,2026-01-20 00:41:43.333815
+estrasburgo,opponent_d,1,1,2026-01-30 00:41:43.333815
+opponent_e,estrasburgo,0,0,2026-02-09 00:41:43.333815
+lyon,opponent_a,0,3,2025-11-11 00:41:43.340697
+opponent_b,lyon,1,2,2025-11-21 00:41:43.340697
+lyon,opponent_c,2,1,2025-12-01 00:41:43.340697
+opponent_d,lyon,1,3,2025-12-11 00:41:43.340697
+lyon,opponent_e,2,0,2025-12-21 00:41:43.340697
+opponent_a,lyon,3,2,2025-12-31 00:41:43.340697
+lyon,opponent_b,0,0,2026-01-10 00:41:43.340697
+opponent_c,lyon,3,1,2026-01-20 00:41:43.340697
+lyon,opponent_d,1,1,2026-01-30 00:41:43.340697
+opponent_e,lyon,1,2,2026-02-09 00:41:43.340697

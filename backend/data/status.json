@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-19T00:41:47.969342",
-  "rho": -0.091952,
+  "last_updated": "2026-02-23T13:23:13.059726",
+  "rho": -0.045227,
   "xi": 0.005,
-  "home_advantage": 0.1216,
-  "n_matches": 1859,
-  "n_teams": 89,
+  "home_advantage": 0.0615,
+  "n_matches": 1839,
+  "n_teams": 87,
   "convergence": true,
   "data_quality": "clean",
   "error": null

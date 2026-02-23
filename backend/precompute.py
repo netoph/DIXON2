@@ -20,7 +20,7 @@ DATA_DIR = Path(__file__).parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
 print("=" * 60)
-print("PRE-COMPUTING PREDICTIONS — CONCURSO 2321")
+print("PRE-COMPUTING PREDICTIONS — CONCURSO 2322")
 print("=" * 60)
 
 # Step 1: Get fixtures
